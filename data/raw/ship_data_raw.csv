@@ -1,0 +1,21 @@
+ship_id,capacity_mt,last_oil_type,available_date,available_port
+1000,23142,Brent,20-10-2025,Houston Port
+1001,39932,Urals,20-03-2026,Rotterdam Port
+1002,74354,Arab Light,04-10-2025,Jeddah Port
+1003,26122,Maya,11-10-2025,Paradip Port
+1004,54404,,06-03-2026,Jeddah Port
+1005,48978,Maya,11-03-2026,Fujairah Port
+1006,66157,Maya,06-06-2026,Houston Port
+1007,21910,Urals,12-11-2025,Shanghai Port
+1008,30208,Brent,22-05-2026,Houston Port
+1009,40166,Es Sider,05-04-2026,Fujairah Port
+1010,79853,Arab Light,31-10-2025,Paradip Port
+1011,77844,Urals,30-12-2025,Kochi Port
+1012,46670,,22-05-2026,
+1013,67933,Brent,01-10-2025,Singapore Port
+1014,50619,Es Sider,05-10-2025,Houston Port
+1015,61652,Bonny Light,30-05-2026,Fujairah Port
+1016,40090,Maya,23-12-2025,Houston Port
+1017,72183,Maya,10-11-2025,Fujairah Port
+1018,43233,Maya,27-02-2026,Houston Port
+1019,52095,Es Sider,16-04-2026,Houston Port

@@ -1,0 +1,21 @@
+oil_id,oil_type,delivery_deadline,origin_country,destination_port,quantity_mt,origin_port
+2000,Es Sider,10-07-2026,,Kochi,2880.28,
+2001,Urals,23-06-2026,Saudi Arabia,Shanghai,1321.16,Saudi Arabia
+2002,Brent,01-06-2026,Saudi Arabia,Shanghai,4772.27,Saudi Arabia
+2003,Maya,23-04-2026,Saudi Arabia,Kochi,9534.02,Saudi Arabia
+2004,Arab Light,04-07-2026,Brazil,Shanghai,1033.34,Brazil
+2005,Es Sider,12-10-2025,Iraq,Houston,4281.52,Iraq
+2006,Urals,27-12-2025,Russia,Shanghai,5111.89,Russia
+2007,Es Sider,25-01-2026,Saudi Arabia,Shanghai,9120.41,Saudi Arabia
+2008,Maya,17-05-2026,Russia,Fujairah,4838.85,Russia
+2009,Bonny Light,25-08-2026,Russia,Jeddah,1561.18,Russia
+2010,Es Sider,20-06-2026,USA,Jeddah,5323.52,USA
+2011,Es Sider,26-04-2026,,Houston,6571.96,
+2012,Maya,17-01-2026,Iraq,Rotterdam,8151.27,Iraq
+2013,Urals,03-12-2025,Nigeria,Houston,9732.56,Nigeria
+2014,Arab Light,25-06-2026,Brazil,Paradip,8687.85,Brazil
+2015,Arab Light,07-12-2025,UAE,Houston,4687.66,UAE
+2016,Bonny Light,24-06-2026,Russia,Shanghai,802.16,Russia
+2017,Brent,07-08-2026,Brazil,Shanghai,6955.98,Brazil
+2018,Brent,07-03-2026,Russia,Rotterdam,8662.83,Russia
+2019,Brent,26-02-2026,Iraq,Jeddah,9139.07,Iraq

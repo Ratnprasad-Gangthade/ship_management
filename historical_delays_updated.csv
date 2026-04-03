@@ -1,0 +1,1001 @@
+ds,y,oil_type,origin_country,destination_port,ship_id,capacity_mt
+01-01-2023,3.23,Es Sider,Iraq,Rotterdam,1709,65905
+02-01-2023,2.76,WTI,Russia,Shanghai,1058,37769
+03-01-2023,4.55,WTI,Russia,Fujairah,1404,40489
+04-01-2023,5.15,WTI,UAE,Fujairah,1236,31682
+05-01-2023,2.56,Brent,Russia,Singapore,1612,73812
+06-01-2023,3.51,Urals,USA,Shanghai,1689,59928
+07-01-2023,2.83,Es Sider,Iraq,Mumbai,1998,57746
+08-01-2023,1.62,Bonny Light,Iraq,Fujairah,1545,71780
+09-01-2023,3.28,Bonny Light,UAE,Shanghai,1042,78425
+10-01-2023,4.95,Brent,Nigeria,Fujairah,1852,46071
+11-01-2023,4.29,Bonny Light,Nigeria,Singapore,1511,47326
+12-01-2023,4.98,Urals,Iraq,Shanghai,1447,67539
+13-01-2023,4.93,Bonny Light,Saudi Arabia,Singapore,1242,32249
+14-01-2023,1.7,Es Sider,Russia,Houston,1141,66005
+15-01-2023,2.17,WTI,UAE,Fujairah,1986,38961
+16-01-2023,4.15,Bonny Light,USA,Houston,1243,67317
+17-01-2023,0.6,Urals,Russia,Rotterdam,1500,45932
+18-01-2023,4.31,WTI,Nigeria,Singapore,1113,33521
+19-01-2023,1.64,WTI,Iraq,Fujairah,1869,33035
+20-01-2023,4.77,WTI,Iraq,Houston,1053,35155
+21-01-2023,5.7,Es Sider,Saudi Arabia,Shanghai,1142,47277
+22-01-2023,2.85,Urals,Iraq,Houston,1411,48802
+23-01-2023,5.77,WTI,Saudi Arabia,Rotterdam,1727,66665
+24-01-2023,1.17,WTI,Iraq,Mumbai,1724,39936
+25-01-2023,3.91,Urals,USA,Shanghai,1669,47084
+26-01-2023,1.43,WTI,Nigeria,Singapore,1500,45932
+27-01-2023,3.89,Bonny Light,USA,Fujairah,1496,41529
+28-01-2023,2.85,Es Sider,Saudi Arabia,Shanghai,1936,41931
+29-01-2023,4.24,Es Sider,Russia,Mumbai,1360,72745
+30-01-2023,4.71,Dubai,Iraq,Fujairah,1294,30500
+31-01-2023,4.34,Dubai,Iraq,Mumbai,1169,40474
+01-02-2023,1.66,Dubai,UAE,Shanghai,1857,53885
+02-02-2023,4.97,Es Sider,Iraq,Mumbai,1934,64304
+03-02-2023,2.99,Urals,UAE,Rotterdam,1895,48565
+04-02-2023,3.0,Es Sider,Iraq,Mumbai,1844,72725
+05-02-2023,2.39,Dubai,Iraq,Houston,1195,54348
+06-02-2023,1.95,Urals,USA,Shanghai,1700,30191
+07-02-2023,2.08,WTI,Nigeria,Singapore,1601,51813
+08-02-2023,5.86,WTI,Nigeria,Singapore,1069,74195
+09-02-2023,4.56,Es Sider,Saudi Arabia,Fujairah,1465,70437
+10-02-2023,1.41,Es Sider,UAE,Houston,1163,43838
+11-02-2023,1.02,Es Sider,USA,Rotterdam,1032,70469
+12-02-2023,2.15,Bonny Light,USA,Houston,1599,66953
+13-02-2023,2.27,Dubai,USA,Rotterdam,1178,43529
+14-02-2023,4.37,Brent,Iraq,Singapore,1396,54196
+15-02-2023,1.48,Dubai,Russia,Rotterdam,1858,67768
+16-02-2023,3.55,WTI,Russia,Fujairah,1653,32659
+17-02-2023,5.62,Dubai,UAE,Shanghai,1587,57530
+18-02-2023,4.81,Dubai,Saudi Arabia,Houston,1134,54500
+19-02-2023,2.29,Bonny Light,Saudi Arabia,Houston,1340,46738
+20-02-2023,1.44,Bonny Light,Saudi Arabia,Houston,1719,35471
+21-02-2023,2.39,Dubai,Russia,Rotterdam,1889,57498
+22-02-2023,3.74,Es Sider,UAE,Shanghai,1790,31539
+23-02-2023,4.77,Bonny Light,Nigeria,Singapore,1565,74664
+24-02-2023,4.09,Urals,USA,Mumbai,1737,64951
+25-02-2023,3.15,Bonny Light,Saudi Arabia,Mumbai,1900,37439
+26-02-2023,2.43,Brent,Saudi Arabia,Shanghai,1244,64079
+27-02-2023,3.54,Bonny Light,USA,Shanghai,1794,31246
+28-02-2023,4.64,WTI,Saudi Arabia,Rotterdam,1300,74220
+01-03-2023,3.94,Dubai,UAE,Singapore,1662,53637
+02-03-2023,4.16,WTI,Nigeria,Mumbai,1236,31682
+03-03-2023,4.11,Brent,Nigeria,Shanghai,1938,49655
+04-03-2023,4.19,Dubai,USA,Fujairah,1394,36187
+05-03-2023,3.39,Es Sider,Russia,Houston,1567,63918
+06-03-2023,4.46,Es Sider,Iraq,Singapore,1571,35343
+07-03-2023,3.62,Bonny Light,Iraq,Shanghai,1017,64286
+08-03-2023,5.76,Bonny Light,Saudi Arabia,Houston,1241,30225
+09-03-2023,3.64,WTI,Iraq,Mumbai,1476,45347
+10-03-2023,3.81,Es Sider,Nigeria,Singapore,1034,40212
+11-03-2023,1.95,WTI,Nigeria,Mumbai,1746,67639
+12-03-2023,2.89,WTI,Nigeria,Rotterdam,1575,56012
+13-03-2023,4.9,WTI,Saudi Arabia,Rotterdam,1671,49552
+14-03-2023,6.1,Urals,Iraq,Fujairah,1092,63615
+15-03-2023,5.24,WTI,USA,Singapore,1039,55702
+16-03-2023,0.58,Bonny Light,Nigeria,Rotterdam,1943,77208
+17-03-2023,3.68,Bonny Light,Iraq,Fujairah,1057,59425
+18-03-2023,2.07,Brent,Iraq,Rotterdam,1343,78016
+19-03-2023,2.97,Es Sider,Iraq,Singapore,1649,63986
+20-03-2023,2.82,Urals,Russia,Houston,1689,59928
+21-03-2023,5.01,Urals,Saudi Arabia,Singapore,1908,71425
+22-03-2023,1.56,Brent,Nigeria,Shanghai,1593,49807
+23-03-2023,4.29,WTI,Iraq,Shanghai,1532,60622
+24-03-2023,4.78,Dubai,Saudi Arabia,Houston,1223,37748
+25-03-2023,3.45,Es Sider,USA,Mumbai,1589,52564
+26-03-2023,2.07,Brent,Iraq,Singapore,1432,53931
+27-03-2023,2.64,Es Sider,Saudi Arabia,Shanghai,1241,30225
+28-03-2023,3.47,Bonny Light,Iraq,Fujairah,1645,73987
+29-03-2023,4.04,Urals,Iraq,Shanghai,1444,73343
+30-03-2023,4.04,Dubai,Russia,Shanghai,1116,40973
+31-03-2023,4.89,Bonny Light,Nigeria,Mumbai,1702,51007
+01-04-2023,4.61,Bonny Light,USA,Fujairah,1041,55567
+02-04-2023,4.97,Es Sider,UAE,Fujairah,1737,64951
+03-04-2023,3.72,Es Sider,Russia,Mumbai,1303,32926
+04-04-2023,5.46,Es Sider,Russia,Singapore,1178,43529
+05-04-2023,5.25,Bonny Light,Nigeria,Fujairah,1309,39450
+06-04-2023,0.95,Urals,Iraq,Rotterdam,1943,77208
+07-04-2023,3.35,WTI,Iraq,Shanghai,1063,61038
+08-04-2023,3.41,Es Sider,Iraq,Houston,1922,63571
+09-04-2023,4.22,Bonny Light,Saudi Arabia,Mumbai,1738,79661
+10-04-2023,4.13,Es Sider,USA,Rotterdam,1153,56728
+11-04-2023,3.89,WTI,Iraq,Mumbai,1345,49759
+12-04-2023,3.88,Es Sider,Saudi Arabia,Mumbai,1736,47118
+13-04-2023,3.83,Urals,Saudi Arabia,Fujairah,1697,53198
+14-04-2023,6.06,Brent,Iraq,Fujairah,1463,52123
+15-04-2023,2.2,Urals,Nigeria,Shanghai,1358,54867
+16-04-2023,1.96,Es Sider,Saudi Arabia,Fujairah,1528,71574
+17-04-2023,3.63,Brent,USA,Mumbai,1014,30974
+18-04-2023,6.2,WTI,Iraq,Houston,1101,30244
+19-04-2023,5.04,Bonny Light,UAE,Singapore,1013,60990
+20-04-2023,1.54,WTI,Saudi Arabia,Rotterdam,1961,74972
+21-04-2023,3.83,Brent,Russia,Fujairah,1568,71373
+22-04-2023,3.82,WTI,USA,Fujairah,1544,62164
+23-04-2023,3.5,Es Sider,USA,Houston,1765,44641
+24-04-2023,5.47,WTI,Nigeria,Mumbai,1863,52341
+25-04-2023,4.61,Urals,UAE,Houston,1769,34571
+26-04-2023,4.52,Bonny Light,Saudi Arabia,Houston,1128,72494
+27-04-2023,2.91,Bonny Light,USA,Houston,1076,66698
+28-04-2023,2.16,Es Sider,Saudi Arabia,Shanghai,1436,73813
+29-04-2023,5.21,Es Sider,USA,Houston,1243,67317
+30-04-2023,4.77,Es Sider,USA,Houston,1078,46355
+01-05-2023,2.62,Es Sider,Iraq,Mumbai,1352,51307
+02-05-2023,2.38,Brent,Russia,Rotterdam,1031,50193
+03-05-2023,2.07,Dubai,UAE,Singapore,1270,46820
+04-05-2023,2.63,Brent,UAE,Houston,1793,69832
+05-05-2023,3.31,Bonny Light,Iraq,Houston,1230,45861
+06-05-2023,1.97,Brent,UAE,Mumbai,1156,31285
+07-05-2023,2.03,Urals,Russia,Fujairah,1225,51323
+08-05-2023,5.22,WTI,Saudi Arabia,Rotterdam,1334,49476
+09-05-2023,5.57,Dubai,USA,Rotterdam,1116,40973
+10-05-2023,4.72,Es Sider,USA,Shanghai,1631,41869
+11-05-2023,5.29,Es Sider,Saudi Arabia,Fujairah,1342,35209
+12-05-2023,4.45,Urals,Russia,Rotterdam,1490,59771
+13-05-2023,3.99,WTI,Russia,Fujairah,1026,43618
+14-05-2023,3.07,WTI,UAE,Houston,1290,68032
+15-05-2023,3.77,Dubai,Saudi Arabia,Shanghai,1834,34531
+16-05-2023,2.05,WTI,Iraq,Fujairah,1100,43627
+17-05-2023,2.94,Brent,USA,Mumbai,1513,57050
+18-05-2023,4.63,Bonny Light,USA,Shanghai,1640,32912
+19-05-2023,1.37,Brent,Iraq,Singapore,1711,41352
+20-05-2023,2.5,Dubai,Nigeria,Houston,1338,35379
+21-05-2023,3.28,Bonny Light,USA,Rotterdam,1619,42180
+22-05-2023,2.71,Urals,Russia,Rotterdam,1178,43529
+23-05-2023,2.27,WTI,Iraq,Singapore,1598,31722
+24-05-2023,2.02,Bonny Light,Russia,Mumbai,1518,58061
+25-05-2023,3.54,Bonny Light,UAE,Singapore,1210,56532
+26-05-2023,4.3,Bonny Light,Saudi Arabia,Houston,1374,31306
+27-05-2023,3.34,Brent,Iraq,Rotterdam,1672,47951
+28-05-2023,3.19,Brent,Saudi Arabia,Houston,1235,62499
+29-05-2023,2.82,Bonny Light,UAE,Fujairah,1001,40470
+30-05-2023,5.09,WTI,Nigeria,Mumbai,1157,70959
+31-05-2023,3.62,Brent,Iraq,Rotterdam,1744,53606
+01-06-2023,3.51,Brent,Russia,Fujairah,1690,67461
+02-06-2023,2.57,WTI,Iraq,Rotterdam,1411,48802
+03-06-2023,4.58,Bonny Light,USA,Rotterdam,1389,30271
+04-06-2023,2.59,Brent,Saudi Arabia,Shanghai,1497,61779
+05-06-2023,2.4,Bonny Light,USA,Shanghai,1581,48368
+06-06-2023,3.74,Brent,Iraq,Singapore,1344,61885
+07-06-2023,4.13,Brent,UAE,Rotterdam,1804,79381
+08-06-2023,3.38,Bonny Light,Nigeria,Mumbai,1894,45573
+09-06-2023,2.94,Bonny Light,USA,Houston,1971,67938
+10-06-2023,4.43,Urals,Russia,Fujairah,1387,37079
+11-06-2023,0.93,Urals,Nigeria,Fujairah,1221,46273
+12-06-2023,1.99,WTI,USA,Rotterdam,1319,34123
+13-06-2023,2.53,Brent,UAE,Houston,1543,30748
+14-06-2023,3.79,WTI,Saudi Arabia,Singapore,1890,70199
+15-06-2023,6.05,Urals,Iraq,Fujairah,1191,55217
+16-06-2023,2.03,WTI,USA,Shanghai,1622,55373
+17-06-2023,1.79,Bonny Light,Nigeria,Singapore,1149,39406
+18-06-2023,5.47,Bonny Light,Saudi Arabia,Singapore,1462,34976
+19-06-2023,4.5,Brent,UAE,Mumbai,1290,68032
+20-06-2023,4.63,Brent,Russia,Singapore,1869,33035
+21-06-2023,4.89,Es Sider,USA,Mumbai,1374,31306
+22-06-2023,4.41,Bonny Light,Russia,Singapore,1357,41796
+23-06-2023,1.27,Bonny Light,Russia,Mumbai,1699,45683
+24-06-2023,2.29,WTI,USA,Fujairah,1117,32361
+25-06-2023,3.46,Dubai,Iraq,Mumbai,1008,35217
+26-06-2023,2.27,Bonny Light,USA,Shanghai,1559,63633
+27-06-2023,1.3,Brent,Iraq,Fujairah,1842,41670
+28-06-2023,1.04,Dubai,Iraq,Fujairah,1234,37984
+29-06-2023,4.0,Bonny Light,UAE,Fujairah,1301,59130
+30-06-2023,4.39,Bonny Light,Saudi Arabia,Houston,1108,76323
+01-07-2023,5.41,Bonny Light,Saudi Arabia,Mumbai,1540,70881
+02-07-2023,4.88,WTI,Saudi Arabia,Singapore,1821,77603
+03-07-2023,1.27,Es Sider,Russia,Mumbai,1040,47233
+04-07-2023,3.99,Es Sider,Saudi Arabia,Fujairah,1702,51007
+05-07-2023,4.76,Dubai,UAE,Shanghai,1466,65358
+06-07-2023,3.74,Es Sider,Iraq,Rotterdam,1847,63630
+07-07-2023,1.11,WTI,Nigeria,Singapore,1799,79427
+08-07-2023,5.41,Urals,Iraq,Shanghai,1248,68807
+09-07-2023,1.14,Bonny Light,Saudi Arabia,Houston,1170,34127
+10-07-2023,2.73,Urals,UAE,Rotterdam,1205,43662
+11-07-2023,6.59,Es Sider,USA,Rotterdam,1609,78417
+12-07-2023,4.02,Brent,Nigeria,Shanghai,1947,46499
+13-07-2023,2.01,Bonny Light,Iraq,Fujairah,1717,39753
+14-07-2023,4.65,Es Sider,Nigeria,Singapore,1663,30232
+15-07-2023,3.54,Urals,UAE,Houston,1014,30974
+16-07-2023,5.87,Bonny Light,Nigeria,Houston,1539,36412
+17-07-2023,3.0,Brent,Russia,Singapore,1853,33041
+18-07-2023,4.21,Bonny Light,USA,Houston,1736,47118
+19-07-2023,3.9,Brent,Nigeria,Singapore,1008,35217
+20-07-2023,0.79,Bonny Light,Saudi Arabia,Houston,1226,57053
+21-07-2023,2.32,Bonny Light,USA,Houston,1356,44402
+22-07-2023,2.26,Brent,UAE,Singapore,1286,57582
+23-07-2023,3.22,Dubai,Iraq,Mumbai,1279,64381
+24-07-2023,6.1,Brent,Nigeria,Shanghai,1380,42594
+25-07-2023,3.25,Dubai,Russia,Houston,1148,74386
+26-07-2023,4.37,Bonny Light,USA,Houston,1265,66471
+27-07-2023,2.67,Es Sider,USA,Houston,1434,38096
+28-07-2023,2.32,Es Sider,Iraq,Rotterdam,1725,61226
+29-07-2023,0.97,Bonny Light,Russia,Singapore,1170,34127
+30-07-2023,2.62,Brent,Nigeria,Singapore,1720,67391
+31-07-2023,1.39,WTI,Iraq,Rotterdam,1608,60361
+01-08-2023,4.5,Dubai,USA,Singapore,1487,54864
+02-08-2023,3.81,Dubai,USA,Rotterdam,1299,67046
+03-08-2023,3.59,Es Sider,Russia,Houston,1616,70341
+04-08-2023,5.07,WTI,UAE,Houston,1969,40834
+05-08-2023,3.63,WTI,Russia,Fujairah,1254,59214
+06-08-2023,3.54,Bonny Light,Nigeria,Singapore,1004,44044
+07-08-2023,2.3,Es Sider,Nigeria,Rotterdam,1478,79661
+08-08-2023,3.2,Bonny Light,USA,Shanghai,1698,53506
+09-08-2023,4.43,Bonny Light,Saudi Arabia,Houston,1509,47088
+10-08-2023,5.96,Bonny Light,Nigeria,Singapore,1185,79579
+11-08-2023,1.47,Dubai,USA,Rotterdam,1589,52564
+12-08-2023,4.22,Bonny Light,Iraq,Shanghai,1730,70698
+13-08-2023,3.19,Urals,Saudi Arabia,Mumbai,1095,79333
+14-08-2023,2.57,Brent,Iraq,Rotterdam,1152,51898
+15-08-2023,5.51,Dubai,Russia,Fujairah,1493,69422
+16-08-2023,5.16,Bonny Light,USA,Shanghai,1946,35534
+17-08-2023,6.4,Dubai,Russia,Fujairah,1454,45288
+18-08-2023,1.11,Urals,Iraq,Shanghai,1430,50916
+19-08-2023,3.0,Es Sider,USA,Houston,1760,53727
+20-08-2023,3.99,Brent,Saudi Arabia,Houston,1036,47521
+21-08-2023,5.96,Brent,Saudi Arabia,Houston,1853,33041
+22-08-2023,4.48,Es Sider,Nigeria,Singapore,1340,46738
+23-08-2023,3.12,WTI,Nigeria,Mumbai,1610,36399
+24-08-2023,1.92,Urals,Iraq,Shanghai,1519,40287
+25-08-2023,3.98,Brent,Nigeria,Houston,1506,50914
+26-08-2023,3.16,Es Sider,UAE,Shanghai,1292,52721
+27-08-2023,3.39,Bonny Light,USA,Fujairah,1650,73668
+28-08-2023,5.64,Es Sider,UAE,Houston,1476,45347
+29-08-2023,1.06,Urals,Russia,Houston,1992,77522
+30-08-2023,3.6,Dubai,Russia,Rotterdam,1684,58514
+31-08-2023,4.62,Es Sider,Russia,Houston,1408,39229
+01-09-2023,4.14,WTI,Nigeria,Mumbai,1159,67543
+02-09-2023,4.8,WTI,UAE,Fujairah,1904,72677
+03-09-2023,4.08,Urals,Iraq,Fujairah,1181,53599
+04-09-2023,4.37,Dubai,USA,Fujairah,1713,41905
+05-09-2023,3.99,WTI,Saudi Arabia,Rotterdam,1781,46040
+06-09-2023,3.77,Es Sider,Russia,Houston,1970,31752
+07-09-2023,3.86,Bonny Light,Nigeria,Houston,1678,65323
+08-09-2023,1.68,WTI,Saudi Arabia,Rotterdam,1198,64181
+09-09-2023,2.2,WTI,Russia,Fujairah,1785,79595
+10-09-2023,0.71,Es Sider,USA,Shanghai,1361,74199
+11-09-2023,4.67,Es Sider,Nigeria,Rotterdam,1893,66659
+12-09-2023,2.81,Brent,Saudi Arabia,Fujairah,1658,59526
+13-09-2023,3.81,Es Sider,Iraq,Rotterdam,1647,52657
+14-09-2023,3.8,Es Sider,Iraq,Mumbai,1014,30974
+15-09-2023,1.91,Bonny Light,Iraq,Shanghai,1991,38141
+16-09-2023,4.67,Es Sider,USA,Shanghai,1352,51307
+17-09-2023,4.19,Urals,USA,Mumbai,1496,41529
+18-09-2023,1.36,Dubai,Russia,Singapore,1099,77513
+19-09-2023,4.38,Es Sider,Russia,Singapore,1117,32361
+20-09-2023,5.84,Dubai,Iraq,Houston,1063,61038
+21-09-2023,1.97,Bonny Light,USA,Shanghai,1326,64650
+22-09-2023,4.55,Dubai,Russia,Rotterdam,1365,78249
+23-09-2023,1.13,Bonny Light,UAE,Singapore,1888,39595
+24-09-2023,5.51,Urals,Russia,Rotterdam,1226,57053
+25-09-2023,3.73,Urals,Saudi Arabia,Mumbai,1693,53062
+26-09-2023,4.31,Es Sider,Russia,Mumbai,1667,37717
+27-09-2023,5.48,Brent,Iraq,Rotterdam,1332,71384
+28-09-2023,4.51,Urals,Iraq,Shanghai,1809,34650
+29-09-2023,3.6,Brent,UAE,Houston,1643,43036
+30-09-2023,4.44,Es Sider,Saudi Arabia,Mumbai,1622,55373
+01-10-2023,4.03,WTI,Saudi Arabia,Rotterdam,1825,33580
+02-10-2023,1.7,Bonny Light,Nigeria,Fujairah,1338,35379
+03-10-2023,3.27,Urals,Iraq,Rotterdam,1617,50523
+04-10-2023,4.2,Bonny Light,UAE,Shanghai,1802,65846
+05-10-2023,1.35,Urals,Nigeria,Shanghai,1236,31682
+06-10-2023,1.09,Dubai,USA,Singapore,1015,69026
+07-10-2023,2.98,Dubai,USA,Fujairah,1174,40324
+08-10-2023,0.88,WTI,USA,Fujairah,1844,72725
+09-10-2023,0.58,Urals,Iraq,Mumbai,1221,46273
+10-10-2023,3.81,Bonny Light,UAE,Fujairah,1638,75021
+11-10-2023,4.68,Bonny Light,Nigeria,Fujairah,1768,73968
+12-10-2023,4.28,WTI,USA,Fujairah,1645,73987
+13-10-2023,1.94,Bonny Light,Nigeria,Singapore,1632,78293
+14-10-2023,3.91,WTI,Iraq,Mumbai,1840,76849
+15-10-2023,2.17,Bonny Light,USA,Rotterdam,1265,66471
+16-10-2023,4.64,Bonny Light,Nigeria,Fujairah,1640,32912
+17-10-2023,4.27,Dubai,Iraq,Mumbai,1289,61678
+18-10-2023,3.08,Urals,Iraq,Shanghai,1281,57734
+19-10-2023,2.68,Brent,Nigeria,Singapore,1410,36011
+20-10-2023,5.84,Urals,USA,Shanghai,1254,59214
+21-10-2023,0.81,Brent,Saudi Arabia,Houston,1293,34322
+22-10-2023,2.48,WTI,USA,Shanghai,1321,67825
+23-10-2023,0.76,Brent,USA,Mumbai,1882,66964
+24-10-2023,4.4,WTI,Iraq,Fujairah,1374,31306
+25-10-2023,1.72,WTI,USA,Shanghai,1627,78015
+26-10-2023,2.38,WTI,Iraq,Shanghai,1844,72725
+27-10-2023,2.3,Urals,Nigeria,Shanghai,1809,34650
+28-10-2023,4.14,Bonny Light,Russia,Mumbai,1110,78339
+29-10-2023,2.65,Bonny Light,USA,Rotterdam,1007,76895
+30-10-2023,4.88,Brent,Nigeria,Singapore,1958,72256
+31-10-2023,1.07,Bonny Light,Saudi Arabia,Houston,1873,65474
+01-11-2023,4.69,Bonny Light,Saudi Arabia,Houston,1982,53591
+02-11-2023,0.99,Urals,Iraq,Rotterdam,1159,67543
+03-11-2023,4.83,Bonny Light,Nigeria,Mumbai,1695,76620
+04-11-2023,4.1,Dubai,UAE,Fujairah,1295,43319
+05-11-2023,2.18,Bonny Light,Saudi Arabia,Mumbai,1335,34905
+06-11-2023,2.38,Es Sider,USA,Mumbai,1692,73484
+07-11-2023,3.87,Brent,USA,Fujairah,1585,38113
+08-11-2023,3.61,WTI,Saudi Arabia,Rotterdam,1008,35217
+09-11-2023,2.08,WTI,Saudi Arabia,Singapore,1756,73102
+10-11-2023,4.97,Brent,Russia,Singapore,1417,34778
+11-11-2023,4.8,WTI,Nigeria,Fujairah,1550,60961
+12-11-2023,2.55,Urals,USA,Houston,1082,75747
+13-11-2023,3.25,Brent,Nigeria,Shanghai,1706,71204
+14-11-2023,1.24,WTI,Iraq,Fujairah,1765,44641
+15-11-2023,2.48,Urals,Nigeria,Shanghai,1439,63152
+16-11-2023,3.6,Bonny Light,Nigeria,Singapore,1372,51306
+17-11-2023,3.55,Brent,USA,Houston,1315,70276
+18-11-2023,3.02,WTI,Iraq,Shanghai,1067,69829
+19-11-2023,5.62,WTI,USA,Fujairah,1283,39581
+20-11-2023,1.76,WTI,UAE,Houston,1658,59526
+21-11-2023,3.93,Brent,Iraq,Rotterdam,1052,40917
+22-11-2023,1.85,WTI,Saudi Arabia,Rotterdam,1916,58627
+23-11-2023,5.06,Dubai,UAE,Fujairah,1941,71061
+24-11-2023,1.94,Es Sider,Iraq,Mumbai,1215,41696
+25-11-2023,4.18,WTI,Nigeria,Mumbai,1961,74972
+26-11-2023,4.64,Dubai,UAE,Shanghai,1442,60950
+27-11-2023,3.17,Bonny Light,Saudi Arabia,Shanghai,1981,32375
+28-11-2023,2.5,Es Sider,Nigeria,Mumbai,1209,30522
+29-11-2023,3.01,WTI,USA,Shanghai,1396,54196
+30-11-2023,2.55,Brent,Saudi Arabia,Fujairah,1524,31391
+01-12-2023,3.3,Urals,Nigeria,Shanghai,1137,53281
+02-12-2023,4.2,Bonny Light,USA,Houston,1566,57772
+03-12-2023,0.67,Es Sider,Saudi Arabia,Fujairah,1342,35209
+04-12-2023,4.16,Es Sider,USA,Fujairah,1835,58252
+05-12-2023,2.85,Es Sider,Saudi Arabia,Houston,1369,46215
+06-12-2023,4.62,Dubai,USA,Rotterdam,1864,52573
+07-12-2023,5.86,Bonny Light,Nigeria,Singapore,1114,62854
+08-12-2023,3.13,Dubai,UAE,Houston,1725,61226
+09-12-2023,1.53,Bonny Light,USA,Shanghai,1341,56108
+10-12-2023,1.86,Dubai,Iraq,Mumbai,1067,69829
+11-12-2023,5.5,Urals,Iraq,Houston,1426,68223
+12-12-2023,1.69,Es Sider,UAE,Shanghai,1226,57053
+13-12-2023,2.63,Brent,Iraq,Rotterdam,1702,51007
+14-12-2023,6.15,Bonny Light,USA,Houston,1818,41510
+15-12-2023,5.22,WTI,Iraq,Fujairah,1896,43533
+16-12-2023,2.84,Es Sider,Nigeria,Singapore,1870,61089
+17-12-2023,3.94,Brent,UAE,Mumbai,1854,49346
+18-12-2023,3.2,Es Sider,Russia,Mumbai,1200,56889
+19-12-2023,2.28,Dubai,UAE,Fujairah,1862,39034
+20-12-2023,4.0,Es Sider,USA,Rotterdam,1710,53345
+21-12-2023,3.03,Brent,USA,Mumbai,1558,77447
+22-12-2023,3.19,Bonny Light,Iraq,Shanghai,1343,78016
+23-12-2023,4.25,Urals,UAE,Fujairah,1972,62572
+24-12-2023,4.54,Es Sider,Iraq,Rotterdam,1683,46010
+25-12-2023,3.9,Es Sider,Nigeria,Singapore,1239,40838
+26-12-2023,5.63,Es Sider,Saudi Arabia,Houston,1564,34675
+27-12-2023,3.04,Dubai,Russia,Rotterdam,1616,70341
+28-12-2023,3.8,WTI,Saudi Arabia,Rotterdam,1814,53165
+29-12-2023,2.48,Bonny Light,Nigeria,Singapore,1666,78530
+30-12-2023,3.67,Urals,Iraq,Houston,1439,63152
+31-12-2023,1.77,Brent,UAE,Mumbai,1947,46499
+01-01-2024,4.6,Es Sider,Iraq,Rotterdam,1805,47326
+02-01-2024,6.1,Es Sider,Saudi Arabia,Mumbai,1832,76290
+03-01-2024,1.09,Bonny Light,Saudi Arabia,Houston,1050,51766
+04-01-2024,5.05,Bonny Light,Nigeria,Singapore,1700,30191
+05-01-2024,4.58,WTI,Iraq,Singapore,1263,67112
+06-01-2024,2.86,Urals,UAE,Houston,1791,65122
+07-01-2024,2.41,Bonny Light,UAE,Fujairah,1476,45347
+08-01-2024,0.57,WTI,Iraq,Mumbai,1291,78799
+09-01-2024,6.73,Urals,Nigeria,Singapore,1055,69628
+10-01-2024,3.11,WTI,Russia,Shanghai,1106,47506
+11-01-2024,4.37,Bonny Light,Saudi Arabia,Houston,1366,35867
+12-01-2024,3.46,WTI,Saudi Arabia,Rotterdam,1069,74195
+13-01-2024,3.72,Urals,Nigeria,Shanghai,1103,51451
+14-01-2024,0.37,Brent,Saudi Arabia,Houston,1316,79824
+15-01-2024,3.99,Bonny Light,USA,Fujairah,1231,58842
+16-01-2024,3.34,Bonny Light,Nigeria,Mumbai,1595,41288
+17-01-2024,5.17,WTI,Iraq,Fujairah,1724,39936
+18-01-2024,3.17,Brent,Iraq,Rotterdam,1982,53591
+19-01-2024,4.29,Dubai,Russia,Singapore,1981,32375
+20-01-2024,4.98,Bonny Light,USA,Houston,1089,49221
+21-01-2024,4.58,WTI,USA,Rotterdam,1122,57681
+22-01-2024,2.47,Es Sider,Saudi Arabia,Mumbai,1580,54625
+23-01-2024,1.23,Urals,USA,Mumbai,1489,66308
+24-01-2024,4.28,Urals,Russia,Shanghai,1994,50353
+25-01-2024,1.96,Dubai,Saudi Arabia,Houston,1710,53345
+26-01-2024,1.92,Bonny Light,Nigeria,Mumbai,1527,36797
+27-01-2024,3.28,Es Sider,Russia,Singapore,1312,48148
+28-01-2024,3.92,Urals,USA,Shanghai,1329,38426
+29-01-2024,1.22,Urals,Iraq,Mumbai,1389,30271
+30-01-2024,2.86,Urals,UAE,Houston,1803,58138
+31-01-2024,5.53,Urals,Nigeria,Shanghai,1500,45932
+01-02-2024,3.79,Bonny Light,USA,Houston,1318,67740
+02-02-2024,2.57,Es Sider,Nigeria,Mumbai,1452,46542
+03-02-2024,3.16,WTI,Iraq,Singapore,1752,77042
+04-02-2024,3.44,Bonny Light,Nigeria,Singapore,1366,35867
+05-02-2024,4.24,Brent,Iraq,Fujairah,1268,47740
+06-02-2024,3.76,WTI,Iraq,Mumbai,1503,58388
+07-02-2024,1.99,Es Sider,Saudi Arabia,Fujairah,1235,62499
+08-02-2024,4.36,Dubai,Russia,Singapore,1943,77208
+09-02-2024,2.3,Brent,Iraq,Rotterdam,1815,44405
+10-02-2024,2.64,Es Sider,USA,Houston,1700,30191
+11-02-2024,3.12,Es Sider,Iraq,Rotterdam,1669,47084
+12-02-2024,3.28,Urals,Russia,Rotterdam,1035,35650
+13-02-2024,2.21,Dubai,Iraq,Houston,1062,46334
+14-02-2024,4.36,Bonny Light,USA,Houston,1391,36224
+15-02-2024,4.59,Brent,Nigeria,Houston,1435,65939
+16-02-2024,3.33,Bonny Light,Nigeria,Rotterdam,1881,71718
+17-02-2024,3.6,Urals,Iraq,Mumbai,1756,73102
+18-02-2024,3.25,Urals,Saudi Arabia,Singapore,1127,64564
+19-02-2024,4.15,Es Sider,USA,Rotterdam,1017,64286
+20-02-2024,1.31,Es Sider,Saudi Arabia,Shanghai,1376,35340
+21-02-2024,4.38,Dubai,Russia,Singapore,1814,53165
+22-02-2024,1.67,Urals,Iraq,Shanghai,1002,33069
+23-02-2024,2.72,Brent,Iraq,Rotterdam,1837,53558
+24-02-2024,3.96,Dubai,Iraq,Fujairah,1109,79862
+25-02-2024,4.56,Dubai,Iraq,Houston,1064,46925
+26-02-2024,4.05,Bonny Light,USA,Shanghai,1996,68666
+27-02-2024,1.84,Bonny Light,Nigeria,Fujairah,1172,48754
+28-02-2024,4.48,Urals,Russia,Rotterdam,1970,31752
+29-02-2024,1.91,Urals,Nigeria,Fujairah,1924,77417
+01-03-2024,4.19,Bonny Light,UAE,Singapore,1729,38655
+02-03-2024,6.17,Bonny Light,UAE,Singapore,1145,38544
+03-03-2024,1.94,WTI,USA,Rotterdam,1504,73326
+04-03-2024,2.51,Bonny Light,UAE,Singapore,1834,34531
+05-03-2024,4.34,Es Sider,USA,Shanghai,1896,43533
+06-03-2024,5.59,Bonny Light,USA,Fujairah,1437,76674
+07-03-2024,6.11,Bonny Light,Saudi Arabia,Mumbai,1206,31291
+08-03-2024,1.1,Bonny Light,Saudi Arabia,Mumbai,1887,53667
+09-03-2024,5.21,Dubai,USA,Fujairah,1211,51462
+10-03-2024,5.67,Bonny Light,Nigeria,Houston,1816,65574
+11-03-2024,0.97,WTI,UAE,Houston,1699,45683
+12-03-2024,5.32,Urals,Russia,Fujairah,1924,77417
+13-03-2024,4.29,WTI,Nigeria,Fujairah,1647,52657
+14-03-2024,0.55,WTI,USA,Mumbai,1675,64953
+15-03-2024,3.07,Brent,USA,Mumbai,1392,63495
+16-03-2024,3.57,WTI,Nigeria,Mumbai,1315,70276
+17-03-2024,2.1,Brent,Nigeria,Singapore,1051,69024
+18-03-2024,3.47,Brent,USA,Mumbai,1616,70341
+19-03-2024,5.59,Es Sider,UAE,Shanghai,1301,59130
+20-03-2024,2.51,Es Sider,Iraq,Rotterdam,1463,52123
+21-03-2024,4.24,Bonny Light,Russia,Singapore,1647,52657
+22-03-2024,2.18,Urals,USA,Mumbai,1593,49807
+23-03-2024,2.52,Es Sider,USA,Shanghai,1568,71373
+24-03-2024,4.07,Urals,Iraq,Shanghai,1476,45347
+25-03-2024,2.59,Urals,USA,Shanghai,1512,44575
+26-03-2024,4.55,Bonny Light,UAE,Shanghai,1381,47701
+27-03-2024,3.48,WTI,Iraq,Shanghai,1626,78455
+28-03-2024,4.28,Dubai,Russia,Singapore,1436,73813
+29-03-2024,6.59,Brent,Nigeria,Fujairah,1925,60483
+30-03-2024,6.05,Brent,USA,Mumbai,1002,33069
+31-03-2024,3.15,Brent,Iraq,Singapore,1229,45551
+01-04-2024,4.15,Bonny Light,Iraq,Houston,1936,41931
+02-04-2024,4.68,Brent,Iraq,Rotterdam,1717,39753
+03-04-2024,3.72,WTI,Saudi Arabia,Rotterdam,1943,77208
+04-04-2024,4.4,Es Sider,Nigeria,Mumbai,1086,31240
+05-04-2024,3.64,WTI,Iraq,Singapore,1604,58760
+06-04-2024,3.33,Dubai,UAE,Fujairah,1774,48846
+07-04-2024,3.04,Dubai,Saudi Arabia,Shanghai,1040,47233
+08-04-2024,5.29,Bonny Light,UAE,Fujairah,1479,71793
+09-04-2024,2.66,Urals,Russia,Rotterdam,1906,72783
+10-04-2024,6.29,Dubai,Iraq,Houston,1866,68904
+11-04-2024,1.12,Bonny Light,Nigeria,Mumbai,1642,60523
+12-04-2024,2.15,WTI,UAE,Mumbai,1800,74665
+13-04-2024,5.26,WTI,Iraq,Mumbai,1519,40287
+14-04-2024,1.83,Es Sider,UAE,Fujairah,1870,61089
+15-04-2024,3.58,Es Sider,USA,Mumbai,1864,52573
+16-04-2024,5.96,Urals,Nigeria,Fujairah,1004,44044
+17-04-2024,6.64,Urals,Iraq,Shanghai,1986,38961
+18-04-2024,3.49,Urals,UAE,Houston,1356,44402
+19-04-2024,3.52,Dubai,Russia,Singapore,1530,71483
+20-04-2024,3.91,Dubai,Russia,Houston,1450,64826
+21-04-2024,1.31,Dubai,Iraq,Fujairah,1783,31581
+22-04-2024,1.09,Dubai,Saudi Arabia,Houston,1835,58252
+23-04-2024,4.86,Bonny Light,Nigeria,Singapore,1761,53248
+24-04-2024,2.87,Bonny Light,Saudi Arabia,Singapore,1219,36359
+25-04-2024,3.22,Urals,Iraq,Shanghai,1569,43305
+26-04-2024,4.63,Dubai,Nigeria,Houston,1597,58352
+27-04-2024,1.46,Bonny Light,Iraq,Fujairah,1190,37073
+28-04-2024,4.09,WTI,Iraq,Mumbai,1293,34322
+29-04-2024,4.19,Urals,Iraq,Shanghai,1521,33606
+30-04-2024,3.95,Brent,UAE,Mumbai,1755,69493
+01-05-2024,4.47,Es Sider,Nigeria,Rotterdam,1730,70698
+02-05-2024,5.29,Bonny Light,Nigeria,Houston,1639,59211
+03-05-2024,0.6,Brent,USA,Mumbai,1966,73003
+04-05-2024,1.6,WTI,Nigeria,Rotterdam,1680,75748
+05-05-2024,2.7,Urals,Saudi Arabia,Singapore,1732,41873
+06-05-2024,5.93,Es Sider,Russia,Mumbai,1438,31530
+07-05-2024,5.46,Es Sider,USA,Shanghai,1648,47001
+08-05-2024,3.13,Brent,Nigeria,Fujairah,1569,43305
+09-05-2024,2.55,Urals,Nigeria,Mumbai,1265,66471
+10-05-2024,3.19,Urals,USA,Mumbai,1749,65807
+11-05-2024,4.97,Es Sider,USA,Fujairah,1351,53470
+12-05-2024,5.93,Bonny Light,USA,Houston,1584,45193
+13-05-2024,0.99,Urals,Iraq,Fujairah,1823,62237
+14-05-2024,5.32,Bonny Light,USA,Shanghai,1841,67313
+15-05-2024,5.25,Es Sider,Saudi Arabia,Houston,1949,53841
+16-05-2024,3.67,Es Sider,Russia,Fujairah,1406,62159
+17-05-2024,3.28,Es Sider,USA,Houston,1225,51323
+18-05-2024,1.05,Bonny Light,Saudi Arabia,Mumbai,1604,58760
+19-05-2024,3.89,WTI,Russia,Fujairah,1292,52721
+20-05-2024,6.3,WTI,Nigeria,Singapore,1886,56557
+21-05-2024,3.1,WTI,Nigeria,Mumbai,1650,73668
+22-05-2024,3.84,WTI,Iraq,Fujairah,1101,30244
+23-05-2024,1.44,Bonny Light,UAE,Houston,1719,35471
+24-05-2024,4.74,Es Sider,Saudi Arabia,Shanghai,1687,62709
+25-05-2024,2.89,Urals,Russia,Houston,1211,51462
+26-05-2024,2.63,Bonny Light,Russia,Singapore,1347,75357
+27-05-2024,2.59,Es Sider,Iraq,Mumbai,1610,36399
+28-05-2024,0.91,WTI,Iraq,Shanghai,1292,52721
+29-05-2024,2.85,Urals,Nigeria,Fujairah,1862,39034
+30-05-2024,5.66,Dubai,Iraq,Mumbai,1709,65905
+31-05-2024,3.61,Bonny Light,UAE,Singapore,1653,32659
+01-06-2024,3.95,Es Sider,Iraq,Shanghai,1832,76290
+02-06-2024,3.74,WTI,Iraq,Fujairah,1499,30195
+03-06-2024,3.33,Es Sider,Iraq,Rotterdam,1414,77301
+04-06-2024,4.84,Bonny Light,Saudi Arabia,Shanghai,1521,33606
+05-06-2024,0.41,Bonny Light,Nigeria,Singapore,1005,54217
+06-06-2024,1.17,Es Sider,Saudi Arabia,Houston,1734,47733
+07-06-2024,2.77,Bonny Light,Nigeria,Mumbai,1070,35754
+08-06-2024,3.8,Es Sider,Saudi Arabia,Mumbai,1759,31357
+09-06-2024,2.19,Urals,Iraq,Rotterdam,1482,45144
+10-06-2024,2.88,WTI,Iraq,Fujairah,1295,43319
+11-06-2024,2.3,Dubai,Iraq,Mumbai,1223,37748
+12-06-2024,4.49,Bonny Light,USA,Shanghai,1120,49035
+13-06-2024,3.6,WTI,Nigeria,Singapore,1699,45683
+14-06-2024,3.46,WTI,UAE,Mumbai,1712,57770
+15-06-2024,3.6,WTI,UAE,Fujairah,1589,52564
+16-06-2024,4.62,Urals,Iraq,Shanghai,1999,44295
+17-06-2024,4.66,WTI,UAE,Fujairah,1544,62164
+18-06-2024,4.43,WTI,Nigeria,Mumbai,1067,69829
+19-06-2024,3.08,WTI,Iraq,Mumbai,1986,38961
+20-06-2024,1.85,Dubai,Iraq,Mumbai,1072,36342
+21-06-2024,5.08,Es Sider,Iraq,Shanghai,1467,69769
+22-06-2024,3.94,WTI,Iraq,Fujairah,1577,35665
+23-06-2024,1.71,Es Sider,USA,Shanghai,1566,57772
+24-06-2024,3.31,Bonny Light,Saudi Arabia,Shanghai,1477,63763
+25-06-2024,1.98,WTI,Saudi Arabia,Singapore,1275,34190
+26-06-2024,3.63,Bonny Light,Nigeria,Shanghai,1657,61756
+27-06-2024,2.11,Dubai,USA,Rotterdam,1737,64951
+28-06-2024,5.01,Bonny Light,Saudi Arabia,Houston,1606,55927
+29-06-2024,3.12,Brent,UAE,Houston,1279,64381
+30-06-2024,4.15,Es Sider,Iraq,Rotterdam,1297,32274
+01-07-2024,3.07,Brent,Nigeria,Shanghai,1600,79366
+02-07-2024,2.74,WTI,UAE,Fujairah,1380,42594
+03-07-2024,3.5,Brent,USA,Mumbai,1574,42135
+04-07-2024,5.23,Brent,Iraq,Rotterdam,1310,51493
+05-07-2024,5.12,Es Sider,Saudi Arabia,Fujairah,1043,62913
+06-07-2024,0.68,Es Sider,Iraq,Rotterdam,1932,64206
+07-07-2024,6.45,Dubai,UAE,Fujairah,1659,71831
+08-07-2024,4.3,Dubai,Saudi Arabia,Rotterdam,1523,78001
+09-07-2024,4.5,Dubai,UAE,Houston,1601,51813
+10-07-2024,5.58,Bonny Light,USA,Shanghai,1898,42702
+11-07-2024,2.41,Brent,Nigeria,Fujairah,1927,72256
+12-07-2024,3.23,Es Sider,Iraq,Mumbai,1600,79366
+13-07-2024,3.0,Bonny Light,Iraq,Houston,1270,46820
+14-07-2024,5.06,Brent,Russia,Fujairah,1011,74582
+15-07-2024,4.87,WTI,Nigeria,Rotterdam,1585,38113
+16-07-2024,1.87,Bonny Light,Russia,Singapore,1422,46982
+17-07-2024,5.3,Bonny Light,Saudi Arabia,Houston,1734,47733
+18-07-2024,4.31,Es Sider,Iraq,Mumbai,1122,57681
+19-07-2024,5.8,Dubai,Saudi Arabia,Shanghai,1096,59626
+20-07-2024,0.9,Bonny Light,Nigeria,Singapore,1999,44295
+21-07-2024,2.68,Dubai,Iraq,Fujairah,1279,64381
+22-07-2024,5.22,WTI,UAE,Mumbai,1407,75642
+23-07-2024,6.72,WTI,Nigeria,Mumbai,1420,33432
+24-07-2024,6.01,Es Sider,Iraq,Rotterdam,1971,67938
+25-07-2024,3.87,Bonny Light,Russia,Singapore,1370,38688
+26-07-2024,6.23,Bonny Light,Saudi Arabia,Mumbai,1276,58048
+27-07-2024,6.25,WTI,Nigeria,Fujairah,1101,30244
+28-07-2024,6.53,Urals,Russia,Fujairah,1360,72745
+29-07-2024,2.58,Es Sider,Nigeria,Singapore,1682,30525
+30-07-2024,0.66,Dubai,Russia,Rotterdam,1545,71780
+31-07-2024,3.08,WTI,Nigeria,Rotterdam,1256,42938
+01-08-2024,4.16,WTI,Saudi Arabia,Rotterdam,1246,60570
+02-08-2024,3.32,Es Sider,Nigeria,Mumbai,1396,54196
+03-08-2024,4.18,Brent,Russia,Rotterdam,1054,74157
+04-08-2024,5.09,WTI,Iraq,Houston,1064,46925
+05-08-2024,5.96,Es Sider,Saudi Arabia,Mumbai,1004,44044
+06-08-2024,3.48,Es Sider,Russia,Singapore,1129,32988
+07-08-2024,2.18,Bonny Light,USA,Shanghai,1761,53248
+08-08-2024,3.76,Bonny Light,USA,Fujairah,1610,36399
+09-08-2024,2.96,Urals,Russia,Rotterdam,1959,50787
+10-08-2024,4.21,Bonny Light,UAE,Fujairah,1101,30244
+11-08-2024,4.92,Urals,Saudi Arabia,Singapore,1868,45689
+12-08-2024,5.45,Urals,Iraq,Fujairah,1148,74386
+13-08-2024,4.04,Bonny Light,UAE,Singapore,1472,76130
+14-08-2024,6.92,Dubai,Iraq,Mumbai,1788,65885
+15-08-2024,2.54,Bonny Light,USA,Fujairah,1750,35067
+16-08-2024,0.17,Bonny Light,Iraq,Fujairah,1483,55303
+17-08-2024,4.62,Urals,Saudi Arabia,Mumbai,1580,54625
+18-08-2024,4.15,Brent,Iraq,Rotterdam,1363,32272
+19-08-2024,1.9,Urals,USA,Shanghai,1641,58163
+20-08-2024,3.96,WTI,UAE,Fujairah,1725,61226
+21-08-2024,3.53,Bonny Light,USA,Shanghai,1412,50970
+22-08-2024,3.53,Dubai,USA,Rotterdam,1813,68157
+23-08-2024,1.45,Es Sider,USA,Houston,1394,36187
+24-08-2024,2.4,Es Sider,Iraq,Rotterdam,1270,46820
+25-08-2024,3.43,Bonny Light,UAE,Shanghai,1372,51306
+26-08-2024,4.54,WTI,Nigeria,Mumbai,1520,71212
+27-08-2024,4.56,Es Sider,Iraq,Rotterdam,1611,35553
+28-08-2024,4.39,Es Sider,USA,Shanghai,1529,73759
+29-08-2024,5.23,Bonny Light,Iraq,Shanghai,1641,58163
+30-08-2024,4.47,Es Sider,Iraq,Rotterdam,1596,38413
+31-08-2024,4.57,Brent,Iraq,Singapore,1407,75642
+01-09-2024,6.18,WTI,Iraq,Mumbai,1003,54803
+02-09-2024,6.32,Dubai,Iraq,Houston,1777,75347
+03-09-2024,4.72,Bonny Light,UAE,Fujairah,1919,47997
+04-09-2024,4.21,Bonny Light,Iraq,Fujairah,1009,43250
+05-09-2024,3.08,WTI,Iraq,Shanghai,1119,60958
+06-09-2024,1.27,Brent,Saudi Arabia,Fujairah,1353,43551
+07-09-2024,2.73,Urals,Saudi Arabia,Fujairah,1305,50416
+08-09-2024,4.69,Brent,UAE,Rotterdam,1725,61226
+09-09-2024,4.81,Urals,USA,Mumbai,1320,63434
+10-09-2024,5.99,Brent,Iraq,Singapore,1274,41976
+11-09-2024,4.45,Bonny Light,Russia,Singapore,1012,48844
+12-09-2024,1.54,Es Sider,Russia,Mumbai,1768,73968
+13-09-2024,2.31,Urals,UAE,Fujairah,1265,66471
+14-09-2024,3.06,Es Sider,Saudi Arabia,Mumbai,1682,30525
+15-09-2024,4.86,Urals,Saudi Arabia,Fujairah,1682,30525
+16-09-2024,3.29,Es Sider,Saudi Arabia,Houston,1593,49807
+17-09-2024,1.81,Es Sider,Saudi Arabia,Shanghai,1744,53606
+18-09-2024,2.53,Bonny Light,UAE,Fujairah,1006,72419
+19-09-2024,3.05,Dubai,UAE,Houston,1523,78001
+20-09-2024,4.13,Bonny Light,Saudi Arabia,Mumbai,1423,38276
+21-09-2024,4.69,Dubai,Russia,Rotterdam,1490,59771
+22-09-2024,1.74,WTI,Iraq,Houston,1653,32659
+23-09-2024,1.39,WTI,Iraq,Houston,1664,73620
+24-09-2024,5.64,Bonny Light,USA,Fujairah,1375,33424
+25-09-2024,3.07,Dubai,Iraq,Houston,1377,32086
+26-09-2024,4.25,Dubai,UAE,Fujairah,1917,56408
+27-09-2024,4.39,WTI,Iraq,Fujairah,1410,36011
+28-09-2024,2.22,Es Sider,USA,Fujairah,1772,72791
+29-09-2024,4.3,Es Sider,USA,Mumbai,1647,52657
+30-09-2024,1.23,Bonny Light,Saudi Arabia,Singapore,1739,53017
+01-10-2024,2.73,Dubai,Russia,Houston,1449,67088
+02-10-2024,6.22,Es Sider,Iraq,Rotterdam,1291,78799
+03-10-2024,2.99,Dubai,Iraq,Houston,1260,37499
+04-10-2024,1.04,Brent,Russia,Rotterdam,1763,68501
+05-10-2024,4.66,WTI,Russia,Fujairah,1090,71271
+06-10-2024,5.34,Es Sider,Iraq,Mumbai,1106,47506
+07-10-2024,1.57,WTI,Saudi Arabia,Singapore,1398,36842
+08-10-2024,2.71,Bonny Light,UAE,Fujairah,1859,35892
+09-10-2024,3.56,Brent,Nigeria,Shanghai,1246,60570
+10-10-2024,2.12,Urals,UAE,Fujairah,1325,70954
+11-10-2024,6.18,Es Sider,Iraq,Mumbai,1648,47001
+12-10-2024,5.15,WTI,USA,Rotterdam,1643,43036
+13-10-2024,2.46,Urals,Iraq,Mumbai,1317,62938
+14-10-2024,0.23,Urals,Iraq,Rotterdam,1465,70437
+15-10-2024,2.86,Bonny Light,UAE,Singapore,1038,32055
+16-10-2024,6.44,Urals,Russia,Rotterdam,1768,73968
+17-10-2024,3.55,Urals,USA,Houston,1827,73333
+18-10-2024,3.0,Bonny Light,USA,Shanghai,1939,41547
+19-10-2024,4.48,Urals,Russia,Shanghai,1191,55217
+20-10-2024,2.72,Brent,Russia,Rotterdam,1553,37974
+21-10-2024,4.91,Brent,Iraq,Singapore,1458,62655
+22-10-2024,2.69,Brent,Russia,Singapore,1485,76350
+23-10-2024,4.68,Dubai,UAE,Singapore,1587,57530
+24-10-2024,4.0,Bonny Light,UAE,Singapore,1801,63795
+25-10-2024,2.18,Brent,USA,Mumbai,1632,78293
+26-10-2024,1.08,Dubai,UAE,Shanghai,1011,74582
+27-10-2024,4.28,Bonny Light,Saudi Arabia,Singapore,1880,57757
+28-10-2024,4.8,Brent,Iraq,Fujairah,1944,44159
+29-10-2024,4.88,Bonny Light,USA,Rotterdam,1460,44534
+30-10-2024,3.9,Urals,USA,Shanghai,1523,78001
+31-10-2024,2.01,Dubai,UAE,Singapore,1542,50471
+01-11-2024,5.23,Urals,Iraq,Houston,1637,38054
+02-11-2024,4.73,Bonny Light,Saudi Arabia,Houston,1293,34322
+03-11-2024,6.16,Es Sider,USA,Mumbai,1703,64819
+04-11-2024,2.45,Bonny Light,USA,Shanghai,1073,37248
+05-11-2024,4.65,Brent,Nigeria,Houston,1093,63813
+06-11-2024,1.79,Bonny Light,USA,Fujairah,1043,62913
+07-11-2024,4.77,Es Sider,USA,Fujairah,1027,47564
+08-11-2024,0.54,Dubai,USA,Shanghai,1914,37811
+09-11-2024,2.0,Bonny Light,USA,Houston,1252,30156
+10-11-2024,2.15,Es Sider,Nigeria,Mumbai,1293,34322
+11-11-2024,2.99,Bonny Light,UAE,Shanghai,1323,61869
+12-11-2024,2.29,Es Sider,Russia,Mumbai,1091,53111
+13-11-2024,0.94,Es Sider,USA,Houston,1929,60450
+14-11-2024,2.25,Dubai,UAE,Houston,1186,39990
+15-11-2024,3.36,Bonny Light,USA,Shanghai,1151,32173
+16-11-2024,2.79,Bonny Light,Nigeria,Rotterdam,1648,47001
+17-11-2024,4.31,Dubai,Iraq,Mumbai,1845,52007
+18-11-2024,2.55,Urals,Nigeria,Singapore,1817,60471
+19-11-2024,2.84,Urals,Russia,Rotterdam,1609,78417
+20-11-2024,2.14,Dubai,UAE,Singapore,1412,50970
+21-11-2024,3.63,Dubai,UAE,Shanghai,1602,40292
+22-11-2024,2.64,Urals,UAE,Fujairah,1908,71425
+23-11-2024,3.69,Es Sider,Iraq,Mumbai,1476,45347
+24-11-2024,6.32,Dubai,Nigeria,Houston,1494,48104
+25-11-2024,4.73,Bonny Light,Iraq,Shanghai,1241,30225
+26-11-2024,5.88,Brent,UAE,Houston,1443,75000
+27-11-2024,5.03,Brent,Russia,Rotterdam,1137,53281
+28-11-2024,1.01,WTI,Nigeria,Rotterdam,1704,34848
+29-11-2024,4.04,WTI,Nigeria,Rotterdam,1037,58055
+30-11-2024,2.57,WTI,Nigeria,Fujairah,1521,33606
+01-12-2024,3.01,Es Sider,USA,Houston,1715,39383
+02-12-2024,1.43,Bonny Light,UAE,Singapore,1954,46109
+03-12-2024,2.41,Bonny Light,USA,Shanghai,1506,50914
+04-12-2024,2.09,Brent,Iraq,Fujairah,1466,65358
+05-12-2024,4.74,WTI,Iraq,Singapore,1765,44641
+06-12-2024,3.07,Urals,Iraq,Fujairah,1869,33035
+07-12-2024,4.51,WTI,Iraq,Fujairah,1543,30748
+08-12-2024,1.14,Bonny Light,USA,Rotterdam,1990,72318
+09-12-2024,2.35,WTI,Russia,Mumbai,1423,38276
+10-12-2024,4.44,Bonny Light,Saudi Arabia,Houston,1842,41670
+11-12-2024,5.31,Bonny Light,UAE,Fujairah,1330,38589
+12-12-2024,3.83,Bonny Light,UAE,Fujairah,1615,39679
+13-12-2024,2.63,Brent,UAE,Singapore,1113,33521
+14-12-2024,4.34,Brent,USA,Mumbai,1381,47701
+15-12-2024,3.44,Brent,UAE,Rotterdam,1329,38426
+16-12-2024,2.9,Urals,Saudi Arabia,Fujairah,1921,47809
+17-12-2024,5.59,Brent,UAE,Rotterdam,1952,54887
+18-12-2024,2.33,Brent,USA,Fujairah,1469,52667
+19-12-2024,5.4,Urals,Russia,Shanghai,1720,67391
+20-12-2024,4.45,Urals,USA,Mumbai,1609,78417
+21-12-2024,2.76,Bonny Light,UAE,Fujairah,1472,76130
+22-12-2024,2.3,Es Sider,Iraq,Houston,1241,30225
+23-12-2024,4.8,Brent,Iraq,Rotterdam,1669,47084
+24-12-2024,4.63,Es Sider,USA,Shanghai,1609,78417
+25-12-2024,4.54,WTI,UAE,Mumbai,1437,76674
+26-12-2024,3.49,Es Sider,Iraq,Shanghai,1990,72318
+27-12-2024,4.96,Dubai,Russia,Singapore,1143,38518
+28-12-2024,6.16,Brent,UAE,Rotterdam,1703,64819
+29-12-2024,0.87,WTI,Saudi Arabia,Rotterdam,1573,50452
+30-12-2024,2.27,Bonny Light,UAE,Shanghai,1521,33606
+31-12-2024,6.58,Bonny Light,USA,Shanghai,1551,43207
+01-01-2025,3.16,Bonny Light,USA,Fujairah,1828,60172
+02-01-2025,2.12,Urals,Iraq,Fujairah,1868,45689
+03-01-2025,5.41,Bonny Light,USA,Houston,1003,54803
+04-01-2025,4.3,Brent,Iraq,Rotterdam,1765,44641
+05-01-2025,4.66,Es Sider,Iraq,Rotterdam,1419,51618
+06-01-2025,4.64,Bonny Light,UAE,Fujairah,1539,36412
+07-01-2025,2.0,Urals,Saudi Arabia,Fujairah,1489,66308
+08-01-2025,5.65,Urals,Saudi Arabia,Rotterdam,1049,66677
+09-01-2025,4.76,Brent,UAE,Houston,1092,63615
+10-01-2025,0.76,Brent,Saudi Arabia,Houston,1546,72228
+11-01-2025,2.73,Es Sider,Russia,Singapore,1010,56538
+12-01-2025,2.56,Dubai,USA,Fujairah,1106,47506
+13-01-2025,2.51,Es Sider,Russia,Houston,1430,50916
+14-01-2025,1.87,Es Sider,Saudi Arabia,Houston,1614,57742
+15-01-2025,3.34,Bonny Light,Saudi Arabia,Houston,1834,34531
+16-01-2025,3.96,Bonny Light,USA,Houston,1752,77042
+17-01-2025,4.6,Es Sider,Nigeria,Rotterdam,1677,59797
+18-01-2025,4.73,Bonny Light,Nigeria,Houston,1311,57975
+19-01-2025,3.67,Es Sider,Russia,Singapore,1634,53306
+20-01-2025,1.6,Urals,UAE,Houston,1717,39753
+21-01-2025,4.97,Bonny Light,USA,Houston,1774,48846
+22-01-2025,3.77,Urals,Saudi Arabia,Singapore,1209,30522
+23-01-2025,2.39,WTI,Russia,Shanghai,1043,62913
+24-01-2025,2.43,Bonny Light,USA,Shanghai,1515,72118
+25-01-2025,3.37,Brent,USA,Mumbai,1146,47694
+26-01-2025,3.68,WTI,Nigeria,Mumbai,1651,49844
+27-01-2025,2.28,WTI,Russia,Mumbai,1325,70954
+28-01-2025,3.7,Bonny Light,UAE,Singapore,1465,70437
+29-01-2025,3.29,WTI,Russia,Fujairah,1380,42594
+30-01-2025,1.56,Urals,Nigeria,Singapore,1293,34322
+31-01-2025,3.65,Dubai,USA,Singapore,1095,79333
+01-02-2025,2.84,Urals,USA,Mumbai,1966,73003
+02-02-2025,3.36,Brent,USA,Mumbai,1211,51462
+03-02-2025,3.44,Dubai,USA,Rotterdam,1982,53591
+04-02-2025,5.47,Bonny Light,Saudi Arabia,Mumbai,1227,56294
+05-02-2025,2.87,Dubai,USA,Fujairah,1200,56889
+06-02-2025,2.27,Bonny Light,Nigeria,Shanghai,1664,73620
+07-02-2025,2.35,Es Sider,Nigeria,Singapore,1282,43236
+08-02-2025,3.65,Brent,UAE,Singapore,1613,63795
+09-02-2025,0.16,WTI,Iraq,Shanghai,1804,79381
+10-02-2025,4.26,WTI,UAE,Mumbai,1358,54867
+11-02-2025,6.04,Es Sider,UAE,Fujairah,1232,43936
+12-02-2025,4.09,Es Sider,Saudi Arabia,Fujairah,1206,31291
+13-02-2025,3.85,Urals,Russia,Shanghai,1593,49807
+14-02-2025,3.21,Brent,USA,Mumbai,1569,43305
+15-02-2025,1.7,Es Sider,Iraq,Mumbai,1373,46582
+16-02-2025,2.95,Bonny Light,Iraq,Shanghai,1697,53198
+17-02-2025,1.73,Urals,Russia,Shanghai,1558,77447
+18-02-2025,4.78,Es Sider,Russia,Mumbai,1783,31581
+19-02-2025,3.57,WTI,Iraq,Singapore,1982,53591
+20-02-2025,0.84,Urals,Saudi Arabia,Mumbai,1849,38787
+21-02-2025,1.69,Bonny Light,Iraq,Fujairah,1679,76862
+22-02-2025,4.27,Urals,USA,Shanghai,1492,61284
+23-02-2025,3.58,Urals,Iraq,Rotterdam,1412,50970
+24-02-2025,5.21,Urals,UAE,Houston,1792,60206
+25-02-2025,4.29,Dubai,Iraq,Singapore,1838,79339
+26-02-2025,3.38,Bonny Light,USA,Shanghai,1856,59167
+27-02-2025,1.11,Urals,Nigeria,Singapore,1730,70698
+28-02-2025,0.86,Brent,UAE,Houston,1292,52721
+01-03-2025,5.15,Dubai,Russia,Rotterdam,1928,37000
+02-03-2025,4.22,Bonny Light,USA,Rotterdam,1577,35665
+03-03-2025,1.09,Urals,Saudi Arabia,Mumbai,1567,63918
+04-03-2025,3.06,Bonny Light,UAE,Fujairah,1791,65122
+05-03-2025,3.98,Brent,Iraq,Rotterdam,1960,72311
+06-03-2025,2.71,Bonny Light,USA,Shanghai,1340,46738
+07-03-2025,3.55,WTI,Saudi Arabia,Singapore,1930,50250
+08-03-2025,4.46,Bonny Light,Saudi Arabia,Singapore,1757,75508
+09-03-2025,3.15,WTI,Iraq,Shanghai,1590,31431
+10-03-2025,2.91,Es Sider,Nigeria,Rotterdam,1013,60990
+11-03-2025,4.59,Brent,Iraq,Singapore,1568,71373
+12-03-2025,3.43,Urals,Nigeria,Fujairah,1222,40732
+13-03-2025,3.72,Dubai,Iraq,Mumbai,1254,59214
+14-03-2025,3.53,Bonny Light,UAE,Houston,1720,67391
+15-03-2025,3.2,Urals,Saudi Arabia,Mumbai,1073,37248
+16-03-2025,1.23,Dubai,Iraq,Mumbai,1004,44044
+17-03-2025,2.84,Es Sider,Russia,Houston,1193,44159
+18-03-2025,2.62,Es Sider,Nigeria,Mumbai,1705,59423
+19-03-2025,2.95,Dubai,Russia,Singapore,1311,57975
+20-03-2025,4.03,Es Sider,USA,Shanghai,1919,47997
+21-03-2025,5.45,Brent,Saudi Arabia,Houston,1271,55745
+22-03-2025,3.53,Dubai,Iraq,Mumbai,1592,43462
+23-03-2025,4.08,Bonny Light,Nigeria,Singapore,1351,53470
+24-03-2025,3.94,Dubai,Russia,Fujairah,1130,38643
+25-03-2025,5.64,Bonny Light,USA,Fujairah,1832,76290
+26-03-2025,4.0,Bonny Light,UAE,Fujairah,1689,59928
+27-03-2025,2.97,Dubai,Russia,Shanghai,1764,38909
+28-03-2025,2.74,Urals,UAE,Houston,1024,41565
+29-03-2025,6.26,Brent,UAE,Mumbai,1755,69493
+30-03-2025,3.99,Brent,Nigeria,Houston,1447,67539
+31-03-2025,1.97,WTI,UAE,Houston,1628,50872
+01-04-2025,2.39,Es Sider,Saudi Arabia,Mumbai,1146,47694
+02-04-2025,1.49,Dubai,Saudi Arabia,Houston,1876,33431
+03-04-2025,5.36,Bonny Light,Saudi Arabia,Houston,1188,46186
+04-04-2025,3.32,Bonny Light,Iraq,Houston,1126,42079
+05-04-2025,2.37,Bonny Light,USA,Fujairah,1533,67200
+06-04-2025,1.76,Es Sider,USA,Houston,1287,33969
+07-04-2025,5.66,Dubai,Iraq,Mumbai,1199,50190
+08-04-2025,3.9,WTI,Iraq,Fujairah,1258,33121
+09-04-2025,4.87,Brent,Nigeria,Rotterdam,1839,31943
+10-04-2025,3.43,Brent,Iraq,Fujairah,1970,31752
+11-04-2025,2.2,Bonny Light,Russia,Mumbai,1586,73995
+12-04-2025,6.32,Es Sider,Nigeria,Mumbai,1668,54831
+13-04-2025,4.96,Dubai,UAE,Houston,1238,68117
+14-04-2025,3.33,Urals,Russia,Fujairah,1282,43236
+15-04-2025,3.49,Bonny Light,Iraq,Fujairah,1703,64819
+16-04-2025,1.47,Dubai,Russia,Fujairah,1581,48368
+17-04-2025,3.53,Brent,USA,Houston,1445,43901
+18-04-2025,0.74,Urals,Saudi Arabia,Mumbai,1700,30191
+19-04-2025,4.4,Bonny Light,Nigeria,Mumbai,1450,64826
+20-04-2025,1.88,Brent,Iraq,Singapore,1727,66665
+21-04-2025,1.59,WTI,Nigeria,Singapore,1645,73987
+22-04-2025,1.9,Urals,Iraq,Shanghai,1775,71822
+23-04-2025,3.81,Bonny Light,Russia,Singapore,1713,41905
+24-04-2025,1.97,Dubai,USA,Shanghai,1600,79366
+25-04-2025,4.61,Es Sider,Saudi Arabia,Fujairah,1535,61766
+26-04-2025,1.0,Es Sider,Iraq,Singapore,1357,41796
+27-04-2025,4.57,Dubai,USA,Shanghai,1857,53885
+28-04-2025,1.19,Urals,Iraq,Shanghai,1106,47506
+29-04-2025,5.91,Es Sider,Russia,Fujairah,1121,70543
+30-04-2025,2.32,Dubai,Russia,Houston,1128,72494
+01-05-2025,3.54,Bonny Light,UAE,Houston,1707,75549
+02-05-2025,4.04,Es Sider,Saudi Arabia,Mumbai,1466,65358
+03-05-2025,2.54,Brent,Russia,Singapore,1262,68651
+04-05-2025,3.52,WTI,Saudi Arabia,Rotterdam,1366,35867
+05-05-2025,1.53,Dubai,UAE,Fujairah,1635,49886
+06-05-2025,2.52,WTI,Nigeria,Singapore,1756,73102
+07-05-2025,4.66,Es Sider,Russia,Houston,1568,71373
+08-05-2025,5.52,Brent,UAE,Houston,1873,65474
+09-05-2025,3.89,WTI,Russia,Shanghai,1206,31291
+10-05-2025,3.31,Brent,UAE,Singapore,1014,30974
+11-05-2025,3.03,Es Sider,Russia,Houston,1553,37974
+12-05-2025,3.42,Es Sider,Russia,Singapore,1811,36607
+13-05-2025,2.61,Brent,Nigeria,Shanghai,1336,53474
+14-05-2025,2.0,Es Sider,Nigeria,Singapore,1868,45689
+15-05-2025,3.69,Brent,Nigeria,Shanghai,1216,41959
+16-05-2025,0.79,Bonny Light,Iraq,Shanghai,1101,30244
+17-05-2025,0.9,Urals,Russia,Fujairah,1080,66784
+18-05-2025,1.9,Dubai,Russia,Fujairah,1128,72494
+19-05-2025,3.59,Brent,Russia,Singapore,1108,76323
+20-05-2025,4.49,Brent,Nigeria,Shanghai,1745,40168
+21-05-2025,0.19,Urals,Russia,Houston,1932,64206
+22-05-2025,1.98,Urals,USA,Mumbai,1769,34571
+23-05-2025,1.84,WTI,Nigeria,Singapore,1684,58514
+24-05-2025,2.58,Brent,Russia,Fujairah,1070,35754
+25-05-2025,4.89,Es Sider,USA,Houston,1223,37748
+26-05-2025,1.14,Bonny Light,USA,Shanghai,2000,45065
+27-05-2025,6.98,Urals,Nigeria,Shanghai,1198,64181
+28-05-2025,4.02,Es Sider,UAE,Shanghai,1434,38096
+29-05-2025,1.65,Es Sider,USA,Mumbai,1163,43838
+30-05-2025,0.25,Es Sider,Nigeria,Singapore,1257,33763
+31-05-2025,4.57,WTI,Iraq,Mumbai,1998,57746
+01-06-2025,2.61,Urals,Iraq,Shanghai,1868,45689
+02-06-2025,1.03,Dubai,UAE,Houston,1971,67938
+03-06-2025,3.76,Bonny Light,Iraq,Houston,1088,66428
+04-06-2025,5.08,Bonny Light,Saudi Arabia,Mumbai,1716,53863
+05-06-2025,4.0,Urals,UAE,Rotterdam,1378,70125
+06-06-2025,4.86,Dubai,Iraq,Houston,1842,41670
+07-06-2025,4.72,Es Sider,Russia,Mumbai,1171,78254
+08-06-2025,0.76,Urals,Iraq,Shanghai,1182,36958
+09-06-2025,2.38,Es Sider,Saudi Arabia,Mumbai,1591,67721
+10-06-2025,1.73,Bonny Light,UAE,Singapore,1710,53345
+11-06-2025,3.88,WTI,USA,Shanghai,1283,39581
+12-06-2025,4.61,Bonny Light,Nigeria,Rotterdam,1532,60622
+13-06-2025,1.6,Bonny Light,UAE,Singapore,1600,79366
+14-06-2025,0.95,Bonny Light,Saudi Arabia,Singapore,1874,74603
+15-06-2025,3.99,Bonny Light,Russia,Singapore,1507,50838
+16-06-2025,4.3,Es Sider,Saudi Arabia,Fujairah,1721,43690
+17-06-2025,1.98,Urals,Nigeria,Fujairah,1086,31240
+18-06-2025,3.64,Bonny Light,UAE,Houston,1952,54887
+19-06-2025,4.74,Urals,Nigeria,Singapore,1828,60172
+20-06-2025,1.83,WTI,Saudi Arabia,Rotterdam,1269,35863
+21-06-2025,3.13,Es Sider,Iraq,Singapore,1159,67543
+22-06-2025,5.98,Brent,Russia,Singapore,1267,58389
+23-06-2025,3.23,Bonny Light,Russia,Singapore,1718,68564
+24-06-2025,3.29,Brent,Iraq,Singapore,1722,74685
+25-06-2025,2.6,Es Sider,Iraq,Rotterdam,1097,62072
+26-06-2025,4.25,Bonny Light,Nigeria,Fujairah,1110,78339
+27-06-2025,6.16,WTI,Iraq,Mumbai,1230,45861
+28-06-2025,4.98,WTI,Iraq,Rotterdam,1118,37725
+29-06-2025,5.15,WTI,Iraq,Singapore,1366,35867
+30-06-2025,4.31,Dubai,Saudi Arabia,Shanghai,1605,62862
+01-07-2025,2.53,Dubai,UAE,Singapore,1243,67317
+02-07-2025,6.12,Urals,Saudi Arabia,Fujairah,1504,73326
+03-07-2025,2.64,Bonny Light,Russia,Singapore,1626,78455
+04-07-2025,3.38,Bonny Light,UAE,Fujairah,1110,78339
+05-07-2025,0.39,Dubai,Nigeria,Houston,1887,53667
+06-07-2025,3.46,WTI,USA,Rotterdam,1977,38429
+07-07-2025,5.22,WTI,Russia,Fujairah,1134,54500
+08-07-2025,1.34,Urals,Russia,Shanghai,1767,70825
+09-07-2025,3.25,Bonny Light,Nigeria,Singapore,1361,74199
+10-07-2025,1.84,Urals,Iraq,Shanghai,1452,46542
+11-07-2025,1.18,Urals,UAE,Fujairah,1310,51493
+12-07-2025,4.48,Urals,Russia,Rotterdam,1845,52007
+13-07-2025,5.17,Urals,Saudi Arabia,Mumbai,1884,69384
+14-07-2025,6.09,Bonny Light,UAE,Singapore,1636,35021
+15-07-2025,1.86,Urals,Saudi Arabia,Singapore,1670,41026
+16-07-2025,4.07,Es Sider,Iraq,Houston,1820,42903
+17-07-2025,5.66,Bonny Light,UAE,Fujairah,1049,66677
+18-07-2025,4.83,Es Sider,Saudi Arabia,Mumbai,1149,39406
+19-07-2025,6.06,Brent,Russia,Singapore,1644,77844
+20-07-2025,6.25,Es Sider,UAE,Fujairah,1068,58548
+21-07-2025,6.12,Es Sider,Nigeria,Mumbai,1621,72946
+22-07-2025,3.19,Es Sider,Iraq,Rotterdam,1667,37717
+23-07-2025,6.1,Dubai,Iraq,Mumbai,1561,56090
+24-07-2025,5.85,Urals,Nigeria,Fujairah,1796,40071
+25-07-2025,4.86,Es Sider,Russia,Mumbai,1171,78254
+26-07-2025,5.93,Bonny Light,USA,Shanghai,1983,45001
+27-07-2025,2.54,Dubai,Russia,Fujairah,1566,57772
+28-07-2025,1.56,Es Sider,UAE,Houston,1849,38787
+29-07-2025,2.91,Dubai,Iraq,Singapore,1488,45357
+30-07-2025,1.88,Brent,Russia,Fujairah,1304,49083
+31-07-2025,5.53,Es Sider,Iraq,Rotterdam,1776,60200
+01-08-2025,3.29,Urals,USA,Shanghai,1174,40324
+02-08-2025,2.64,WTI,Russia,Fujairah,1849,38787
+03-08-2025,4.93,Es Sider,Saudi Arabia,Fujairah,1755,69493
+04-08-2025,4.68,Bonny Light,USA,Houston,1119,60958
+05-08-2025,3.65,Es Sider,USA,Houston,1259,49680
+06-08-2025,6.91,Bonny Light,Nigeria,Houston,1839,31943
+07-08-2025,1.64,Bonny Light,Russia,Mumbai,1824,74853
+08-08-2025,1.8,Brent,Russia,Singapore,1167,48845
+09-08-2025,4.41,Bonny Light,Nigeria,Singapore,1347,75357
+10-08-2025,2.38,WTI,Russia,Shanghai,1024,41565
+11-08-2025,1.55,Bonny Light,Nigeria,Singapore,1111,40927
+12-08-2025,4.77,Bonny Light,Nigeria,Mumbai,1754,31616
+13-08-2025,2.72,WTI,Iraq,Shanghai,1552,75746
+14-08-2025,3.58,Bonny Light,Nigeria,Rotterdam,1810,70070
+15-08-2025,6.66,Brent,Russia,Fujairah,1054,74157
+16-08-2025,4.5,Dubai,UAE,Fujairah,1940,78806
+17-08-2025,2.4,Brent,Saudi Arabia,Shanghai,1392,63495
+18-08-2025,6.31,WTI,Saudi Arabia,Rotterdam,2000,45065
+19-08-2025,3.2,WTI,Nigeria,Mumbai,1357,41796
+20-08-2025,4.43,Dubai,Saudi Arabia,Shanghai,1127,64564
+21-08-2025,3.84,Bonny Light,Russia,Singapore,1877,67514
+22-08-2025,1.53,Bonny Light,UAE,Houston,1550,60961
+23-08-2025,6.01,Brent,Nigeria,Houston,1326,64650
+24-08-2025,1.11,Dubai,USA,Fujairah,1398,36842
+25-08-2025,4.15,Dubai,UAE,Singapore,1736,47118
+26-08-2025,1.93,Urals,Russia,Houston,1463,52123
+27-08-2025,3.0,Urals,Nigeria,Mumbai,1146,47694
+28-08-2025,3.21,Bonny Light,Saudi Arabia,Houston,1690,67461
+29-08-2025,3.16,Es Sider,Nigeria,Mumbai,1035,35650
+30-08-2025,3.71,Es Sider,Saudi Arabia,Fujairah,1349,31198
+31-08-2025,5.08,Bonny Light,USA,Rotterdam,1740,68822
+01-09-2025,3.71,Bonny Light,Saudi Arabia,Mumbai,1811,36607
+02-09-2025,2.85,Urals,Saudi Arabia,Fujairah,1417,34778
+03-09-2025,0.67,Es Sider,Iraq,Singapore,1343,78016
+04-09-2025,6.0,Dubai,USA,Shanghai,1430,50916
+05-09-2025,3.48,Brent,Iraq,Rotterdam,1025,34411
+06-09-2025,4.11,Bonny Light,UAE,Shanghai,1655,30898
+07-09-2025,3.11,Dubai,Iraq,Fujairah,1155,59810
+08-09-2025,2.6,Urals,Iraq,Rotterdam,1607,34640
+09-09-2025,4.3,Dubai,UAE,Singapore,1600,79366
+10-09-2025,2.72,Brent,UAE,Rotterdam,1123,72228
+11-09-2025,5.64,WTI,UAE,Mumbai,1018,55365
+12-09-2025,1.75,Es Sider,Russia,Mumbai,1874,74603
+13-09-2025,1.53,Bonny Light,Iraq,Houston,1732,41873
+14-09-2025,1.87,WTI,Russia,Shanghai,1701,30881
+15-09-2025,5.92,Es Sider,UAE,Shanghai,1965,42035
+16-09-2025,5.02,Bonny Light,USA,Shanghai,1207,57521
+17-09-2025,1.84,Es Sider,USA,Houston,1677,59797
+18-09-2025,1.27,WTI,Iraq,Rotterdam,1945,42147
+19-09-2025,2.2,Dubai,Saudi Arabia,Shanghai,1742,36610
+20-09-2025,2.13,Dubai,UAE,Fujairah,1515,72118
+21-09-2025,1.74,Bonny Light,Nigeria,Singapore,1244,64079
+22-09-2025,3.14,Brent,Nigeria,Rotterdam,1149,39406
+23-09-2025,3.43,Dubai,UAE,Houston,1625,32847
+24-09-2025,1.2,Bonny Light,Iraq,Fujairah,1111,40927
+25-09-2025,4.92,Bonny Light,USA,Shanghai,1766,59490
+26-09-2025,3.38,Brent,Nigeria,Shanghai,1547,79550
