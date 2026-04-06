@@ -10,8 +10,799 @@ oil_id,oil_type,delivery_deadline,origin_country,destination_port,quantity_mt,or
 2009,Bonny Light,25-08-2026,Russia,Jeddah,1561.18,Russia
 2010,Es Sider,20-06-2026,United States,Jeddah,5323.52,USA
 2012,Maya,17-01-2026,Iraq,Rotterdam,8151.27,Iraq
+2013,Urals,03-12-2025,Nigeria,Houston,9732.56,Nigeria
 2014,Arab Light,25-06-2026,Brazil,Paradip,8687.85,Brazil
 2015,Arab Light,07-12-2025,United Arab Emirates,Houston,4687.66,UAE
+2016,Bonny Light,24-06-2026,Russia,Shanghai,802.16,Russia
 2017,Brent,07-08-2026,Brazil,Shanghai,6955.98,Brazil
 2018,Brent,07-03-2026,Russia,Rotterdam,8662.83,Russia
 2019,Brent,26-02-2026,Iraq,Jeddah,9139.07,Iraq
+2020,Brent,30-08-2026,United States,Kochi,8468.44,USA
+2021,Urals,12-08-2026,Russia,Jeddah,1647.22,Russia
+2022,Brent,06-03-2026,Iraq,Houston,8045.31,Iraq
+2023,Brent,13-09-2026,United States,Kochi,9680.34,USA
+2024,Urals,06-09-2026,Russia,Fujairah,865.98,Russia
+2025,Basra Light,21-09-2026,United States,Paradip,5791.69,USA
+2026,Arab Light,26-11-2025,Russia,Paradip,8086.37,Russia
+2029,Urals,08-06-2026,United Arab Emirates,Singapore,8162.05,UAE
+2030,Bonny Light,24-10-2025,Iraq,Rotterdam,8658.59,Iraq
+2032,Bonny Light,07-03-2026,Brazil,Shanghai,8694.89,Brazil
+2033,Basra Light,04-03-2026,United Arab Emirates,Kochi,4338.42,UAE
+2034,Arab Light,27-11-2025,United States,Singapore,3059.69,USA
+2035,Maya,08-12-2025,Brazil,Jeddah,3607.51,Brazil
+2036,Bonny Light,21-01-2026,United States,Jeddah,1594.4,USA
+2037,Arab Light,30-05-2026,United Arab Emirates,Jeddah,651.93,UAE
+2038,Basra Light,23-12-2025,Nigeria,Houston,2064.45,Nigeria
+2039,Es Sider,02-08-2026,Saudi Arabia,Fujairah,2308.73,Saudi Arabia
+2040,Maya,28-12-2025,Russia,Shanghai,5424.79,Russia
+2041,Es Sider,13-05-2026,Brazil,Rotterdam,6007.52,Brazil
+2042,Brent,15-07-2026,Saudi Arabia,Houston,8238.19,Saudi Arabia
+2045,Maya,12-02-2026,United Arab Emirates,Kochi,704.43,UAE
+2047,Bonny Light,15-10-2025,United States,Jeddah,2231.8,USA
+2048,Brent,26-10-2025,Brazil,Singapore,8138.6,Brazil
+2049,Urals,22-10-2025,Iraq,Singapore,8489.68,Iraq
+2051,Maya,05-01-2026,Iraq,Houston,5228.8,Iraq
+2052,Brent,31-08-2026,Saudi Arabia,Fujairah,8186.99,Saudi Arabia
+2053,Basra Light,05-01-2026,United Arab Emirates,Singapore,949.09,UAE
+2055,Arab Light,03-03-2026,Russia,Rotterdam,1174.61,Russia
+2056,Urals,01-06-2026,Nigeria,Houston,3708.82,Nigeria
+2059,Maya,28-09-2026,Brazil,Jeddah,872.29,Brazil
+2060,Arab Light,11-12-2025,Brazil,Singapore,9720.6,Brazil
+2061,Brent,01-12-2025,Iraq,Shanghai,1468.43,Iraq
+2062,Brent,13-03-2026,Russia,Singapore,3933.24,Russia
+2063,Arab Light,08-10-2025,Iraq,Singapore,4202.89,Iraq
+2064,Urals,21-05-2026,Saudi Arabia,Paradip,7172.6,Saudi Arabia
+2065,Maya,27-04-2026,Iraq,Kochi,3225.6,Iraq
+2067,Basra Light,12-09-2026,United States,Houston,7501.06,USA
+2068,Arab Light,13-09-2026,Brazil,Rotterdam,5305.1,Brazil
+2069,Basra Light,15-06-2026,Russia,Paradip,9330.09,Russia
+2070,Brent,24-10-2025,United Arab Emirates,Shanghai,1578.39,UAE
+2071,Brent,12-08-2026,Brazil,Fujairah,4939.32,Brazil
+2072,Arab Light,08-09-2026,Russia,Singapore,1453.64,Russia
+2073,Brent,18-05-2026,Saudi Arabia,Houston,1698.83,Saudi Arabia
+2074,Es Sider,10-07-2026,United States,Singapore,4164.37,USA
+2075,Bonny Light,02-02-2026,Brazil,Houston,3022.67,Brazil
+2076,Maya,05-09-2026,United Arab Emirates,Houston,5725.45,UAE
+2077,Brent,28-09-2026,Nigeria,Singapore,2102.09,Nigeria
+2078,Brent,20-11-2025,Iraq,Kochi,4827.93,Iraq
+2079,Es Sider,23-06-2026,Iraq,Houston,2830.74,Iraq
+2081,Maya,13-03-2026,Iraq,Jeddah,5103.33,Iraq
+2083,Basra Light,28-02-2026,Iraq,Shanghai,6691.64,Iraq
+2084,Arab Light,02-06-2026,Nigeria,Singapore,5614.09,Nigeria
+2085,Urals,20-12-2025,Saudi Arabia,Fujairah,6935.25,Saudi Arabia
+2090,Maya,24-11-2025,Iraq,Singapore,6308.48,Iraq
+2091,Arab Light,23-04-2026,United Arab Emirates,Fujairah,3902.23,UAE
+2093,Arab Light,27-07-2026,United States,Houston,5675.86,USA
+2094,Brent,08-01-2026,Russia,Jeddah,2248.6,Russia
+2095,Brent,19-03-2026,Russia,Paradip,944.49,Russia
+2096,Arab Light,13-09-2026,Russia,Shanghai,6029.91,Russia
+2097,Bonny Light,14-04-2026,United Arab Emirates,Fujairah,6854.89,UAE
+2098,Arab Light,01-04-2026,United Arab Emirates,Paradip,1731.41,UAE
+2099,Arab Light,11-03-2026,United Arab Emirates,Singapore,2166.73,UAE
+2100,Maya,15-02-2026,Iraq,Houston,1805.71,Iraq
+2101,Maya,17-10-2025,Russia,Paradip,7723.85,Russia
+2102,Bonny Light,24-07-2026,Nigeria,Fujairah,3390.32,Nigeria
+2104,Bonny Light,24-10-2025,Iraq,Rotterdam,9159.36,Iraq
+2105,Bonny Light,10-07-2026,Nigeria,Paradip,2729.03,Nigeria
+2107,Brent,31-05-2026,Iraq,Houston,6885.48,Iraq
+2108,Brent,11-08-2026,Nigeria,Kochi,4631.34,Nigeria
+2109,Basra Light,29-07-2026,United Arab Emirates,Rotterdam,1929.37,UAE
+2110,Brent,07-01-2026,Russia,Paradip,9720.75,Russia
+2111,Bonny Light,29-08-2026,Iraq,Houston,1949.39,Iraq
+2112,Maya,30-10-2025,United States,Fujairah,4473.27,USA
+2113,Maya,18-04-2026,Brazil,Rotterdam,7292.99,Brazil
+2114,Es Sider,29-01-2026,Russia,Fujairah,7871.0,Russia
+2115,Es Sider,26-10-2025,United States,Fujairah,1792.69,USA
+2116,Bonny Light,06-08-2026,United States,Shanghai,7420.89,USA
+2117,Bonny Light,16-12-2025,Saudi Arabia,Singapore,4999.14,Saudi Arabia
+2118,Arab Light,20-11-2025,Iraq,Houston,3886.53,Iraq
+2119,Urals,15-07-2026,United Arab Emirates,Fujairah,5321.95,UAE
+2121,Es Sider,13-12-2025,Iraq,Shanghai,7124.01,Iraq
+2122,Brent,11-04-2026,Saudi Arabia,Rotterdam,7669.16,Saudi Arabia
+2123,Brent,24-07-2026,United Arab Emirates,Jeddah,4698.29,UAE
+2124,Brent,09-11-2025,United States,Houston,3451.23,USA
+2125,Maya,25-10-2025,Saudi Arabia,Paradip,3886.77,Saudi Arabia
+2126,Bonny Light,09-05-2026,Nigeria,Fujairah,9386.39,Nigeria
+2127,Basra Light,25-11-2025,Brazil,Shanghai,6382.35,Brazil
+2128,Brent,07-07-2026,Saudi Arabia,Rotterdam,2617.26,Saudi Arabia
+2131,Arab Light,20-08-2026,Russia,Paradip,2998.89,Russia
+2132,Es Sider,28-04-2026,Nigeria,Paradip,4429.07,Nigeria
+2133,Urals,21-06-2026,United Arab Emirates,Jeddah,6395.35,UAE
+2134,Urals,08-11-2025,Russia,Jeddah,3243.31,Russia
+2135,Arab Light,26-05-2026,United Arab Emirates,Fujairah,738.34,UAE
+2136,Brent,07-06-2026,United Arab Emirates,Jeddah,5216.52,UAE
+2137,Urals,25-08-2026,Nigeria,Jeddah,4955.14,Nigeria
+2138,Basra Light,03-08-2026,United States,Kochi,3837.39,USA
+2141,Basra Light,23-06-2026,Nigeria,Kochi,1592.81,Nigeria
+2144,Arab Light,11-08-2026,United Arab Emirates,Shanghai,1753.85,UAE
+2145,Maya,19-09-2026,United Arab Emirates,Paradip,4477.96,UAE
+2146,Basra Light,22-12-2025,Saudi Arabia,Shanghai,3805.78,Saudi Arabia
+2147,Brent,19-09-2026,United Arab Emirates,Singapore,3156.14,UAE
+2148,Bonny Light,28-04-2026,Saudi Arabia,Singapore,6247.98,Saudi Arabia
+2149,Maya,26-01-2026,Brazil,Singapore,5988.18,Brazil
+2150,Bonny Light,19-11-2025,Saudi Arabia,Houston,4939.99,Saudi Arabia
+2151,Urals,04-02-2026,Nigeria,Houston,2038.25,Nigeria
+2156,Es Sider,15-01-2026,United States,Houston,8841.98,USA
+2157,Maya,03-08-2026,Nigeria,Fujairah,7790.03,Nigeria
+2158,Arab Light,20-09-2026,Iraq,Kochi,1957.71,Iraq
+2159,Arab Light,21-11-2025,United Arab Emirates,Singapore,3677.57,UAE
+2160,Urals,27-02-2026,Nigeria,Shanghai,5577.16,Nigeria
+2162,Bonny Light,27-02-2026,Nigeria,Houston,3096.28,Nigeria
+2163,Basra Light,06-11-2025,Russia,Paradip,944.95,Russia
+2164,Urals,04-01-2026,United States,Kochi,597.24,USA
+2165,Bonny Light,19-10-2025,Saudi Arabia,Shanghai,7562.73,Saudi Arabia
+2166,Urals,30-01-2026,Nigeria,Houston,3414.1,Nigeria
+2167,Basra Light,18-10-2025,Brazil,Kochi,864.63,Brazil
+2168,Urals,21-08-2026,United Arab Emirates,Paradip,9388.69,UAE
+2169,Basra Light,22-03-2026,Brazil,Houston,9603.31,Brazil
+2171,Maya,08-07-2026,Iraq,Jeddah,5691.03,Iraq
+2172,Brent,01-10-2025,Russia,Fujairah,4611.62,Russia
+2173,Arab Light,30-07-2026,Brazil,Singapore,9260.57,Brazil
+2174,Basra Light,10-04-2026,Saudi Arabia,Fujairah,3816.61,Saudi Arabia
+2175,Es Sider,02-07-2026,Russia,Paradip,6335.56,Russia
+2176,Urals,30-11-2025,Brazil,Kochi,6206.26,Brazil
+2178,Urals,26-12-2025,United States,Rotterdam,5044.7,USA
+2179,Urals,16-03-2026,Brazil,Singapore,2590.29,Brazil
+2180,Maya,01-08-2026,Saudi Arabia,Houston,3793.95,Saudi Arabia
+2183,Brent,02-06-2026,Saudi Arabia,Houston,4601.24,Saudi Arabia
+2184,Arab Light,25-09-2026,Nigeria,Singapore,4818.83,Nigeria
+2185,Brent,06-06-2026,Brazil,Houston,1001.79,Brazil
+2186,Brent,14-06-2026,United States,Jeddah,890.77,USA
+2188,Arab Light,05-07-2026,Brazil,Singapore,3271.73,Brazil
+2189,Urals,08-12-2025,United States,Paradip,6482.99,USA
+2190,Es Sider,03-06-2026,Saudi Arabia,Rotterdam,3674.35,Saudi Arabia
+2191,Es Sider,11-12-2025,United States,Houston,5869.23,USA
+2192,Arab Light,27-04-2026,Nigeria,Kochi,4065.66,Nigeria
+2193,Es Sider,24-04-2026,Iraq,Paradip,688.11,Iraq
+2194,Maya,27-03-2026,Iraq,Jeddah,6441.74,Iraq
+2195,Urals,19-11-2025,Brazil,Jeddah,4378.84,Brazil
+2196,Es Sider,13-02-2026,United Arab Emirates,Shanghai,4082.23,UAE
+2198,Basra Light,20-08-2026,Brazil,Houston,5411.75,Brazil
+2199,Basra Light,15-08-2026,Brazil,Kochi,2297.0,Brazil
+2201,Es Sider,21-09-2026,Russia,Fujairah,4991.44,Russia
+2202,Arab Light,18-09-2026,Iraq,Shanghai,1003.71,Iraq
+2203,Brent,05-10-2025,Russia,Houston,4860.66,Russia
+2204,Brent,11-09-2026,Nigeria,Rotterdam,6976.89,Nigeria
+2205,Brent,07-02-2026,Nigeria,Shanghai,3373.76,Nigeria
+2207,Bonny Light,22-08-2026,United Arab Emirates,Rotterdam,2150.07,UAE
+2208,Maya,13-02-2026,United States,Houston,3912.03,USA
+2209,Arab Light,04-06-2026,Saudi Arabia,Rotterdam,3678.8,Saudi Arabia
+2210,Urals,06-04-2026,United Arab Emirates,Jeddah,1604.23,UAE
+2212,Maya,09-03-2026,Nigeria,Houston,6408.76,Nigeria
+2213,Maya,20-02-2026,Russia,Jeddah,2060.96,Russia
+2215,Es Sider,03-09-2026,United Arab Emirates,Kochi,2440.73,UAE
+2216,Bonny Light,01-08-2026,Brazil,Fujairah,1849.04,Brazil
+2217,Es Sider,12-06-2026,Nigeria,Kochi,2355.19,Nigeria
+2218,Basra Light,25-05-2026,United Arab Emirates,Rotterdam,5734.53,UAE
+2219,Arab Light,18-09-2026,United Arab Emirates,Houston,1417.45,UAE
+2220,Brent,09-10-2025,Brazil,Singapore,5323.13,Brazil
+2221,Maya,04-06-2026,United Arab Emirates,Rotterdam,8566.95,UAE
+2222,Urals,28-08-2026,Nigeria,Shanghai,3808.02,Nigeria
+2225,Basra Light,05-03-2026,United Arab Emirates,Kochi,8494.3,UAE
+2226,Bonny Light,05-09-2026,United States,Jeddah,8023.19,USA
+2227,Es Sider,21-05-2026,United Arab Emirates,Houston,2349.11,UAE
+2228,Urals,11-06-2026,United Arab Emirates,Singapore,8427.66,UAE
+2229,Brent,04-08-2026,Brazil,Houston,2044.63,Brazil
+2230,Bonny Light,10-11-2025,Iraq,Houston,5637.55,Iraq
+2231,Maya,27-04-2026,United States,Houston,3543.27,USA
+2232,Arab Light,10-07-2026,Nigeria,Kochi,8076.57,Nigeria
+2233,Arab Light,08-02-2026,Brazil,Shanghai,6082.94,Brazil
+2235,Arab Light,20-11-2025,Iraq,Shanghai,2856.07,Iraq
+2237,Arab Light,21-06-2026,Iraq,Fujairah,7818.01,Iraq
+2238,Bonny Light,23-08-2026,Russia,Singapore,8735.49,Russia
+2239,Es Sider,07-05-2026,United Arab Emirates,Houston,5388.95,UAE
+2240,Basra Light,23-12-2025,Iraq,Paradip,7250.41,Iraq
+2241,Maya,27-07-2026,Nigeria,Jeddah,3441.19,Nigeria
+2244,Arab Light,17-02-2026,United States,Kochi,6250.68,USA
+2246,Es Sider,17-11-2025,Saudi Arabia,Kochi,713.27,Saudi Arabia
+2247,Maya,11-04-2026,United Arab Emirates,Rotterdam,7625.32,UAE
+2249,Basra Light,02-12-2025,Saudi Arabia,Jeddah,4965.04,Saudi Arabia
+2250,Bonny Light,19-07-2026,Russia,Kochi,5541.81,Russia
+2251,Urals,03-02-2026,Nigeria,Kochi,6897.54,Nigeria
+2252,Basra Light,11-12-2025,Russia,Fujairah,6621.75,Russia
+2254,Brent,10-11-2025,Nigeria,Shanghai,6181.79,Nigeria
+2256,Bonny Light,09-05-2026,United States,Singapore,710.46,USA
+2257,Maya,24-05-2026,Russia,Fujairah,8293.03,Russia
+2259,Urals,23-12-2025,United States,Singapore,9626.23,USA
+2260,Arab Light,04-10-2025,Iraq,Jeddah,3919.47,Iraq
+2261,Es Sider,29-08-2026,Russia,Jeddah,2702.55,Russia
+2263,Maya,28-10-2025,United Arab Emirates,Singapore,9495.03,UAE
+2264,Es Sider,15-09-2026,United States,Fujairah,9320.99,USA
+2265,Bonny Light,22-07-2026,Saudi Arabia,Paradip,9760.78,Saudi Arabia
+2267,Maya,06-09-2026,Nigeria,Singapore,9567.57,Nigeria
+2268,Bonny Light,13-04-2026,Nigeria,Jeddah,3051.37,Nigeria
+2270,Urals,20-05-2026,Russia,Paradip,4770.32,Russia
+2271,Arab Light,31-01-2026,Russia,Kochi,2662.07,Russia
+2272,Es Sider,23-02-2026,United States,Rotterdam,7549.01,USA
+2273,Arab Light,19-09-2026,Brazil,Shanghai,6424.77,Brazil
+2274,Bonny Light,28-03-2026,Russia,Rotterdam,4552.54,Russia
+2275,Arab Light,27-08-2026,United States,Houston,7734.39,USA
+2276,Basra Light,29-03-2026,Russia,Shanghai,4211.47,Russia
+2277,Brent,10-06-2026,Saudi Arabia,Shanghai,5104.01,Saudi Arabia
+2278,Maya,31-03-2026,Iraq,Jeddah,1409.87,Iraq
+2279,Bonny Light,29-07-2026,Saudi Arabia,Jeddah,8626.52,Saudi Arabia
+2280,Es Sider,28-03-2026,Saudi Arabia,Paradip,1386.5,Saudi Arabia
+2282,Brent,17-10-2025,Russia,Paradip,2535.33,Russia
+2284,Bonny Light,12-01-2026,Iraq,Shanghai,4052.98,Iraq
+2285,Es Sider,04-08-2026,Nigeria,Rotterdam,7836.03,Nigeria
+2286,Basra Light,03-02-2026,Russia,Houston,2663.05,Russia
+2287,Basra Light,06-05-2026,Brazil,Fujairah,1699.51,Brazil
+2288,Arab Light,06-10-2025,Iraq,Fujairah,9865.95,Iraq
+2289,Maya,18-06-2026,Brazil,Rotterdam,1322.43,Brazil
+2290,Arab Light,26-09-2026,Nigeria,Rotterdam,5911.82,Nigeria
+2291,Arab Light,20-07-2026,United Arab Emirates,Rotterdam,2643.26,UAE
+2293,Brent,12-07-2026,Brazil,Paradip,6268.21,Brazil
+2294,Urals,02-09-2026,Brazil,Jeddah,3775.59,Brazil
+2295,Basra Light,21-07-2026,United Arab Emirates,Paradip,3123.25,UAE
+2298,Es Sider,21-06-2026,Nigeria,Houston,3009.01,Nigeria
+2299,Bonny Light,06-04-2026,Saudi Arabia,Jeddah,8092.77,Saudi Arabia
+2300,Brent,23-11-2025,Nigeria,Fujairah,3387.18,Nigeria
+2301,Urals,31-03-2026,Nigeria,Shanghai,3296.49,Nigeria
+2303,Brent,23-10-2025,Iraq,Houston,9356.55,Iraq
+2304,Arab Light,02-05-2026,United Arab Emirates,Rotterdam,7101.61,UAE
+2305,Bonny Light,04-08-2026,Nigeria,Rotterdam,3988.34,Nigeria
+2307,Brent,13-05-2026,United Arab Emirates,Rotterdam,1042.18,UAE
+2308,Es Sider,12-10-2025,Brazil,Kochi,2152.2,Brazil
+2309,Basra Light,24-09-2026,Nigeria,Shanghai,8835.15,Nigeria
+2310,Basra Light,23-05-2026,Nigeria,Fujairah,4590.76,Nigeria
+2311,Bonny Light,24-04-2026,Saudi Arabia,Fujairah,9423.88,Saudi Arabia
+2312,Brent,25-02-2026,Iraq,Paradip,9460.51,Iraq
+2315,Arab Light,26-07-2026,Nigeria,Shanghai,6748.46,Nigeria
+2317,Urals,02-08-2026,United Arab Emirates,Kochi,3631.48,UAE
+2318,Maya,16-06-2026,Iraq,Shanghai,3869.29,Iraq
+2320,Bonny Light,13-08-2026,United Arab Emirates,Fujairah,8280.95,UAE
+2321,Es Sider,26-11-2025,Russia,Paradip,4534.17,Russia
+2322,Urals,27-04-2026,United States,Houston,7600.2,USA
+2323,Arab Light,02-10-2025,Iraq,Jeddah,5881.34,Iraq
+2324,Brent,12-08-2026,Iraq,Kochi,7452.03,Iraq
+2325,Es Sider,30-05-2026,United Arab Emirates,Jeddah,9294.56,UAE
+2326,Arab Light,31-05-2026,Nigeria,Jeddah,838.81,Nigeria
+2327,Bonny Light,05-06-2026,Nigeria,Kochi,1642.03,Nigeria
+2328,Basra Light,23-10-2025,United States,Singapore,5812.88,USA
+2329,Es Sider,12-02-2026,Brazil,Kochi,2004.8,Brazil
+2330,Arab Light,24-06-2026,Nigeria,Shanghai,1050.53,Nigeria
+2332,Maya,28-05-2026,Brazil,Jeddah,9774.34,Brazil
+2333,Basra Light,18-12-2025,Iraq,Jeddah,634.87,Iraq
+2334,Bonny Light,05-05-2026,United Arab Emirates,Paradip,6542.3,UAE
+2335,Urals,07-03-2026,Brazil,Paradip,6936.27,Brazil
+2336,Bonny Light,07-06-2026,Brazil,Kochi,5343.93,Brazil
+2337,Es Sider,20-06-2026,Russia,Houston,1311.68,Russia
+2338,Maya,05-05-2026,Nigeria,Shanghai,3087.82,Nigeria
+2339,Arab Light,20-10-2025,Brazil,Rotterdam,1932.06,Brazil
+2340,Basra Light,08-06-2026,Iraq,Paradip,4837.11,Iraq
+2342,Bonny Light,17-01-2026,Nigeria,Singapore,2277.7,Nigeria
+2343,Arab Light,09-07-2026,United Arab Emirates,Fujairah,3588.06,UAE
+2344,Arab Light,20-04-2026,Nigeria,Fujairah,7878.93,Nigeria
+2345,Arab Light,13-03-2026,Nigeria,Shanghai,5426.46,Nigeria
+2346,Es Sider,27-12-2025,United States,Jeddah,3801.3,USA
+2347,Urals,01-07-2026,United Arab Emirates,Jeddah,2406.78,UAE
+2348,Basra Light,03-12-2025,Iraq,Jeddah,3906.1,Iraq
+2349,Maya,03-12-2025,Saudi Arabia,Paradip,6624.44,Saudi Arabia
+2350,Basra Light,22-04-2026,Nigeria,Houston,9035.44,Nigeria
+2352,Arab Light,11-12-2025,Iraq,Fujairah,1014.66,Iraq
+2353,Es Sider,13-03-2026,United States,Paradip,6789.92,USA
+2354,Es Sider,17-03-2026,Saudi Arabia,Kochi,2830.46,Saudi Arabia
+2355,Bonny Light,20-12-2025,Saudi Arabia,Fujairah,2810.6,Saudi Arabia
+2356,Maya,01-01-2026,United States,Fujairah,9816.86,USA
+2358,Arab Light,07-10-2025,Saudi Arabia,Shanghai,2482.3,Saudi Arabia
+2359,Arab Light,05-06-2026,United Arab Emirates,Paradip,9489.89,UAE
+2360,Maya,13-06-2026,Iraq,Kochi,2102.7,Iraq
+2361,Bonny Light,07-09-2026,Russia,Fujairah,9789.64,Russia
+2362,Arab Light,26-01-2026,Russia,Rotterdam,1249.87,Russia
+2363,Es Sider,29-10-2025,Saudi Arabia,Fujairah,4064.45,Saudi Arabia
+2364,Brent,29-01-2026,United Arab Emirates,Kochi,7854.11,UAE
+2367,Urals,19-09-2026,Brazil,Jeddah,4216.34,Brazil
+2368,Es Sider,29-09-2026,Iraq,Jeddah,2707.47,Iraq
+2369,Arab Light,23-03-2026,Russia,Singapore,4918.37,Russia
+2370,Urals,14-12-2025,Iraq,Kochi,4492.75,Iraq
+2372,Es Sider,12-07-2026,United Arab Emirates,Jeddah,3769.08,UAE
+2373,Basra Light,09-05-2026,Iraq,Shanghai,7468.19,Iraq
+2374,Urals,21-09-2026,Russia,Shanghai,3504.79,Russia
+2375,Bonny Light,06-08-2026,Nigeria,Jeddah,9853.02,Nigeria
+2376,Es Sider,06-01-2026,Brazil,Rotterdam,9479.18,Brazil
+2378,Basra Light,02-10-2025,Brazil,Shanghai,9164.97,Brazil
+2380,Maya,31-10-2025,United States,Paradip,2526.92,USA
+2381,Bonny Light,21-07-2026,United Arab Emirates,Fujairah,5578.98,UAE
+2382,Es Sider,22-02-2026,Saudi Arabia,Jeddah,7668.24,Saudi Arabia
+2384,Basra Light,30-10-2025,United States,Paradip,9567.26,USA
+2385,Basra Light,09-06-2026,Nigeria,Singapore,6147.48,Nigeria
+2386,Brent,09-05-2026,Brazil,Kochi,3434.18,Brazil
+2388,Maya,12-03-2026,Nigeria,Shanghai,3331.12,Nigeria
+2390,Maya,04-02-2026,Brazil,Paradip,5850.48,Brazil
+2391,Brent,20-12-2025,Russia,Shanghai,4115.65,Russia
+2392,Maya,26-04-2026,Brazil,Rotterdam,3937.06,Brazil
+2393,Arab Light,22-12-2025,Nigeria,Houston,9404.78,Nigeria
+2394,Brent,11-06-2026,United States,Kochi,6017.61,USA
+2395,Basra Light,15-01-2026,Russia,Singapore,5535.9,Russia
+2397,Brent,05-07-2026,Nigeria,Rotterdam,4830.66,Nigeria
+2398,Urals,10-01-2026,Saudi Arabia,Shanghai,4641.86,Saudi Arabia
+2400,Urals,16-04-2026,United States,Kochi,9266.67,USA
+2401,Basra Light,06-06-2026,Iraq,Fujairah,8758.43,Iraq
+2402,Basra Light,11-11-2025,Nigeria,Fujairah,848.38,Nigeria
+2403,Basra Light,14-12-2025,Russia,Kochi,8738.05,Russia
+2404,Bonny Light,27-12-2025,United States,Paradip,6651.17,USA
+2405,Brent,08-08-2026,Brazil,Fujairah,9731.4,Brazil
+2406,Bonny Light,25-06-2026,Iraq,Singapore,1686.18,Iraq
+2408,Brent,07-04-2026,United Arab Emirates,Rotterdam,7091.26,UAE
+2410,Maya,31-12-2025,United Arab Emirates,Fujairah,9182.22,UAE
+2411,Brent,23-12-2025,United Arab Emirates,Rotterdam,7161.22,UAE
+2412,Brent,07-05-2026,Brazil,Rotterdam,3099.0,Brazil
+2414,Urals,04-01-2026,Russia,Kochi,1660.63,Russia
+2415,Arab Light,12-07-2026,Saudi Arabia,Shanghai,7793.59,Saudi Arabia
+2416,Brent,29-06-2026,Nigeria,Fujairah,4041.15,Nigeria
+2417,Es Sider,01-01-2026,United States,Shanghai,6848.19,USA
+2418,Bonny Light,29-10-2025,United Arab Emirates,Kochi,707.33,UAE
+2419,Es Sider,11-02-2026,Iraq,Singapore,3518.96,Iraq
+2420,Bonny Light,14-07-2026,Saudi Arabia,Shanghai,6279.03,Saudi Arabia
+2421,Basra Light,26-06-2026,United States,Rotterdam,4231.94,USA
+2422,Urals,28-06-2026,Nigeria,Rotterdam,2900.67,Nigeria
+2423,Basra Light,15-06-2026,United Arab Emirates,Singapore,9229.34,UAE
+2424,Bonny Light,30-04-2026,United Arab Emirates,Kochi,4910.0,UAE
+2425,Arab Light,25-04-2026,United States,Rotterdam,7270.92,USA
+2426,Urals,15-09-2026,Russia,Paradip,9181.18,Russia
+2427,Urals,10-02-2026,United States,Shanghai,7190.33,USA
+2429,Brent,04-02-2026,United States,Fujairah,605.44,USA
+2430,Brent,26-07-2026,Brazil,Paradip,9321.8,Brazil
+2431,Brent,13-07-2026,United Arab Emirates,Singapore,2139.01,UAE
+2432,Maya,29-09-2026,United Arab Emirates,Kochi,7528.42,UAE
+2433,Maya,16-06-2026,United Arab Emirates,Jeddah,7648.39,UAE
+2434,Basra Light,14-05-2026,Saudi Arabia,Fujairah,1886.76,Saudi Arabia
+2435,Bonny Light,03-07-2026,United States,Rotterdam,2080.36,USA
+2436,Arab Light,09-04-2026,Brazil,Singapore,9598.52,Brazil
+2437,Maya,16-02-2026,Nigeria,Jeddah,7370.57,Nigeria
+2439,Bonny Light,02-09-2026,United Arab Emirates,Kochi,6661.47,UAE
+2440,Arab Light,18-08-2026,United States,Houston,7267.4,USA
+2441,Es Sider,03-07-2026,United States,Jeddah,2609.42,USA
+2442,Brent,02-03-2026,United States,Houston,1354.04,USA
+2444,Es Sider,15-03-2026,Russia,Paradip,1529.36,Russia
+2445,Brent,25-12-2025,Iraq,Singapore,3615.54,Iraq
+2446,Maya,25-08-2026,Iraq,Rotterdam,2782.39,Iraq
+2447,Urals,13-09-2026,Russia,Fujairah,5024.31,Russia
+2448,Urals,27-07-2026,United Arab Emirates,Singapore,6859.56,UAE
+2449,Basra Light,16-12-2025,United Arab Emirates,Houston,5321.79,UAE
+2451,Es Sider,04-05-2026,Iraq,Rotterdam,9663.67,Iraq
+2452,Basra Light,13-11-2025,Russia,Houston,8692.42,Russia
+2453,Es Sider,26-12-2025,Nigeria,Jeddah,6053.89,Nigeria
+2455,Maya,01-12-2025,United Arab Emirates,Kochi,7399.89,UAE
+2456,Bonny Light,03-06-2026,Russia,Rotterdam,5531.32,Russia
+2457,Basra Light,12-01-2026,Saudi Arabia,Singapore,2038.46,Saudi Arabia
+2458,Basra Light,13-09-2026,Saudi Arabia,Paradip,4591.29,Saudi Arabia
+2459,Brent,13-12-2025,Nigeria,Fujairah,4584.86,Nigeria
+2460,Urals,24-09-2026,Nigeria,Paradip,8192.04,Nigeria
+2461,Brent,30-10-2025,Nigeria,Jeddah,9700.63,Nigeria
+2462,Arab Light,03-11-2025,United States,Jeddah,9143.93,USA
+2463,Maya,07-02-2026,Iraq,Fujairah,7137.46,Iraq
+2464,Bonny Light,08-03-2026,Saudi Arabia,Houston,9791.29,Saudi Arabia
+2465,Es Sider,15-07-2026,Russia,Paradip,5188.5,Russia
+2467,Brent,20-11-2025,Iraq,Fujairah,2386.51,Iraq
+2469,Urals,23-08-2026,United States,Shanghai,9440.62,USA
+2471,Es Sider,10-07-2026,Russia,Paradip,7895.51,Russia
+2472,Brent,11-01-2026,Russia,Shanghai,9895.32,Russia
+2473,Bonny Light,23-12-2025,United Arab Emirates,Singapore,6824.64,UAE
+2474,Arab Light,18-07-2026,Iraq,Shanghai,5512.03,Iraq
+2476,Bonny Light,31-03-2026,Saudi Arabia,Fujairah,4360.38,Saudi Arabia
+2477,Bonny Light,10-08-2026,Saudi Arabia,Kochi,7006.01,Saudi Arabia
+2478,Bonny Light,27-12-2025,United States,Rotterdam,1007.56,USA
+2479,Basra Light,31-12-2025,Brazil,Jeddah,4859.06,Brazil
+2480,Bonny Light,05-05-2026,United Arab Emirates,Singapore,1141.12,UAE
+2481,Bonny Light,15-10-2025,Iraq,Rotterdam,7799.34,Iraq
+2482,Arab Light,10-09-2026,Iraq,Fujairah,2757.73,Iraq
+2483,Bonny Light,30-12-2025,Iraq,Paradip,4628.28,Iraq
+2484,Maya,17-06-2026,United States,Rotterdam,5719.88,USA
+2485,Bonny Light,13-08-2026,Iraq,Rotterdam,5866.05,Iraq
+2486,Brent,27-05-2026,United Arab Emirates,Fujairah,6962.76,UAE
+2487,Bonny Light,23-01-2026,United States,Shanghai,5477.63,USA
+2488,Maya,27-12-2025,Nigeria,Rotterdam,2134.58,Nigeria
+2489,Maya,03-12-2025,Russia,Jeddah,7716.88,Russia
+2490,Basra Light,04-03-2026,Iraq,Paradip,762.76,Iraq
+2491,Es Sider,27-10-2025,Brazil,Shanghai,8752.2,Brazil
+2493,Brent,06-02-2026,United States,Shanghai,4947.13,USA
+2494,Maya,14-05-2026,Russia,Kochi,4481.31,Russia
+2496,Bonny Light,30-01-2026,United Arab Emirates,Houston,7082.35,UAE
+2497,Es Sider,18-03-2026,Nigeria,Shanghai,4801.57,Nigeria
+2498,Urals,12-02-2026,United States,Shanghai,6945.06,USA
+2499,Basra Light,23-07-2026,United Arab Emirates,Singapore,4252.94,UAE
+2501,Es Sider,07-01-2026,Brazil,Houston,3858.81,Brazil
+2502,Basra Light,06-04-2026,Russia,Jeddah,7227.43,Russia
+2505,Basra Light,30-05-2026,Nigeria,Paradip,6142.07,Nigeria
+2506,Maya,22-02-2026,Nigeria,Fujairah,5901.22,Nigeria
+2507,Brent,14-09-2026,Russia,Paradip,8808.35,Russia
+2508,Brent,30-03-2026,Iraq,Singapore,4227.85,Iraq
+2509,Arab Light,14-09-2026,Russia,Shanghai,6201.42,Russia
+2510,Arab Light,03-11-2025,Russia,Paradip,6635.08,Russia
+2511,Es Sider,10-01-2026,Iraq,Paradip,3750.29,Iraq
+2512,Bonny Light,28-11-2025,Iraq,Fujairah,5665.45,Iraq
+2513,Urals,22-08-2026,Brazil,Shanghai,5088.0,Brazil
+2515,Es Sider,17-02-2026,Nigeria,Paradip,5866.27,Nigeria
+2516,Bonny Light,14-07-2026,Saudi Arabia,Houston,4556.56,Saudi Arabia
+2518,Urals,12-09-2026,Nigeria,Shanghai,7625.89,Nigeria
+2519,Maya,10-02-2026,United Arab Emirates,Paradip,5701.84,UAE
+2520,Es Sider,02-12-2025,Brazil,Jeddah,7513.74,Brazil
+2521,Brent,01-04-2026,United States,Houston,2311.08,USA
+2522,Basra Light,12-04-2026,Brazil,Singapore,4362.18,Brazil
+2523,Bonny Light,09-07-2026,Saudi Arabia,Rotterdam,3999.2,Saudi Arabia
+2526,Es Sider,17-04-2026,Iraq,Fujairah,4826.12,Iraq
+2528,Urals,21-11-2025,Nigeria,Paradip,7600.08,Nigeria
+2529,Es Sider,12-12-2025,United Arab Emirates,Jeddah,9185.09,UAE
+2530,Arab Light,10-06-2026,Russia,Singapore,3650.41,Russia
+2531,Es Sider,09-02-2026,Russia,Paradip,4417.47,Russia
+2532,Urals,23-09-2026,United States,Fujairah,6182.27,USA
+2534,Es Sider,30-09-2026,United Arab Emirates,Shanghai,9646.68,UAE
+2535,Bonny Light,25-10-2025,Iraq,Kochi,6149.94,Iraq
+2537,Maya,03-04-2026,Nigeria,Shanghai,1422.2,Nigeria
+2538,Maya,25-02-2026,Russia,Singapore,4477.33,Russia
+2540,Brent,21-05-2026,Iraq,Singapore,8897.0,Iraq
+2541,Urals,11-04-2026,Saudi Arabia,Fujairah,5184.67,Saudi Arabia
+2542,Basra Light,24-10-2025,Iraq,Kochi,4990.45,Iraq
+2544,Brent,24-09-2026,Russia,Kochi,8041.08,Russia
+2545,Brent,29-12-2025,United States,Paradip,1761.74,USA
+2547,Urals,20-04-2026,Iraq,Fujairah,1727.32,Iraq
+2548,Basra Light,10-01-2026,Saudi Arabia,Kochi,5083.17,Saudi Arabia
+2549,Brent,10-09-2026,Nigeria,Jeddah,2032.73,Nigeria
+2550,Urals,11-10-2025,Nigeria,Fujairah,1001.66,Nigeria
+2551,Urals,19-03-2026,Saudi Arabia,Jeddah,3553.15,Saudi Arabia
+2552,Urals,18-02-2026,Brazil,Jeddah,7547.41,Brazil
+2553,Bonny Light,25-03-2026,Iraq,Kochi,8975.61,Iraq
+2554,Arab Light,07-12-2025,United Arab Emirates,Shanghai,7135.09,UAE
+2555,Maya,14-06-2026,Russia,Houston,1273.02,Russia
+2558,Brent,02-07-2026,United Arab Emirates,Kochi,7473.41,UAE
+2559,Maya,02-07-2026,Russia,Jeddah,1241.08,Russia
+2560,Arab Light,22-09-2026,Iraq,Houston,1442.18,Iraq
+2562,Bonny Light,30-03-2026,Iraq,Paradip,6054.89,Iraq
+2563,Urals,05-09-2026,Iraq,Jeddah,3642.64,Iraq
+2564,Basra Light,11-09-2026,United States,Singapore,1690.93,USA
+2566,Urals,17-06-2026,Russia,Singapore,2719.92,Russia
+2567,Basra Light,12-10-2025,Brazil,Paradip,3170.7,Brazil
+2568,Maya,21-02-2026,Brazil,Rotterdam,2749.83,Brazil
+2569,Brent,21-11-2025,Nigeria,Fujairah,5127.44,Nigeria
+2570,Es Sider,02-07-2026,Russia,Shanghai,6360.91,Russia
+2574,Urals,11-04-2026,United States,Houston,9150.21,USA
+2575,Brent,26-11-2025,Brazil,Fujairah,4369.97,Brazil
+2576,Urals,05-09-2026,Brazil,Kochi,4892.79,Brazil
+2577,Basra Light,26-03-2026,United States,Jeddah,652.72,USA
+2578,Basra Light,10-05-2026,Saudi Arabia,Shanghai,8756.04,Saudi Arabia
+2579,Es Sider,02-05-2026,United States,Paradip,5283.09,USA
+2580,Maya,29-12-2025,Iraq,Fujairah,3029.75,Iraq
+2581,Bonny Light,31-03-2026,Nigeria,Shanghai,7080.31,Nigeria
+2582,Bonny Light,31-03-2026,Saudi Arabia,Singapore,6364.08,Saudi Arabia
+2583,Maya,26-06-2026,United States,Rotterdam,3480.37,USA
+2586,Maya,06-07-2026,Nigeria,Kochi,3096.93,Nigeria
+2587,Urals,29-03-2026,Nigeria,Shanghai,2038.44,Nigeria
+2588,Es Sider,07-10-2025,Saudi Arabia,Jeddah,674.89,Saudi Arabia
+2589,Maya,13-10-2025,Saudi Arabia,Jeddah,9584.05,Saudi Arabia
+2591,Brent,09-11-2025,Nigeria,Singapore,9557.51,Nigeria
+2592,Urals,08-06-2026,Nigeria,Fujairah,8729.4,Nigeria
+2593,Basra Light,09-02-2026,Saudi Arabia,Jeddah,2939.59,Saudi Arabia
+2595,Basra Light,26-02-2026,United States,Jeddah,4811.74,USA
+2596,Basra Light,04-06-2026,United Arab Emirates,Paradip,5949.52,UAE
+2598,Brent,04-09-2026,Nigeria,Rotterdam,6467.84,Nigeria
+2599,Urals,14-05-2026,Iraq,Kochi,8012.47,Iraq
+2601,Brent,24-11-2025,Brazil,Fujairah,2165.57,Brazil
+2602,Bonny Light,09-12-2025,Saudi Arabia,Rotterdam,879.37,Saudi Arabia
+2603,Maya,03-12-2025,Nigeria,Fujairah,9715.88,Nigeria
+2604,Bonny Light,26-10-2025,Nigeria,Houston,1987.04,Nigeria
+2605,Bonny Light,10-06-2026,Russia,Houston,7420.81,Russia
+2606,Maya,14-10-2025,United Arab Emirates,Shanghai,9145.2,UAE
+2607,Maya,23-08-2026,Iraq,Singapore,8354.5,Iraq
+2608,Bonny Light,20-05-2026,Brazil,Paradip,7054.18,Brazil
+2609,Basra Light,15-08-2026,Russia,Jeddah,4812.31,Russia
+2610,Brent,20-02-2026,United States,Kochi,6831.2,USA
+2611,Maya,12-08-2026,Brazil,Kochi,5507.84,Brazil
+2612,Urals,21-07-2026,Iraq,Paradip,9118.9,Iraq
+2613,Arab Light,15-06-2026,Nigeria,Rotterdam,940.02,Nigeria
+2616,Brent,20-06-2026,Iraq,Fujairah,8550.21,Iraq
+2617,Urals,07-01-2026,United Arab Emirates,Jeddah,7448.7,UAE
+2618,Maya,12-10-2025,Iraq,Houston,8691.42,Iraq
+2619,Basra Light,02-03-2026,United States,Shanghai,4734.57,USA
+2620,Brent,22-06-2026,United States,Paradip,4147.71,USA
+2621,Es Sider,16-10-2025,United States,Singapore,4877.66,USA
+2622,Brent,18-05-2026,United Arab Emirates,Houston,5940.61,UAE
+2623,Urals,29-11-2025,Russia,Houston,9820.54,Russia
+2626,Arab Light,07-04-2026,Saudi Arabia,Shanghai,5557.39,Saudi Arabia
+2627,Arab Light,05-07-2026,Russia,Rotterdam,3518.99,Russia
+2628,Arab Light,17-09-2026,United States,Singapore,6214.74,USA
+2629,Maya,25-06-2026,Brazil,Paradip,7285.9,Brazil
+2631,Brent,15-01-2026,United Arab Emirates,Paradip,7467.61,UAE
+2632,Urals,23-03-2026,United Arab Emirates,Jeddah,2116.54,UAE
+2633,Maya,06-01-2026,Iraq,Singapore,5190.81,Iraq
+2634,Arab Light,06-02-2026,Saudi Arabia,Paradip,6523.65,Saudi Arabia
+2637,Arab Light,10-03-2026,Nigeria,Kochi,5519.26,Nigeria
+2638,Es Sider,08-05-2026,United States,Paradip,2780.41,USA
+2639,Basra Light,03-02-2026,Saudi Arabia,Singapore,3780.36,Saudi Arabia
+2640,Bonny Light,23-01-2026,United States,Fujairah,7831.73,USA
+2641,Urals,07-11-2025,Saudi Arabia,Jeddah,8690.06,Saudi Arabia
+2642,Arab Light,14-02-2026,United Arab Emirates,Rotterdam,5745.61,UAE
+2644,Brent,28-06-2026,Iraq,Shanghai,3198.92,Iraq
+2645,Basra Light,25-08-2026,Saudi Arabia,Fujairah,8635.04,Saudi Arabia
+2646,Urals,15-09-2026,United States,Kochi,2859.07,USA
+2647,Maya,03-11-2025,Russia,Singapore,2029.47,Russia
+2648,Brent,31-12-2025,Saudi Arabia,Paradip,1916.64,Saudi Arabia
+2649,Bonny Light,24-02-2026,Russia,Rotterdam,789.07,Russia
+2650,Bonny Light,12-10-2025,Saudi Arabia,Houston,4937.32,Saudi Arabia
+2651,Es Sider,08-12-2025,Brazil,Rotterdam,8116.74,Brazil
+2652,Bonny Light,29-05-2026,Russia,Singapore,5963.29,Russia
+2653,Bonny Light,30-01-2026,Russia,Shanghai,8970.62,Russia
+2654,Arab Light,30-09-2026,Nigeria,Kochi,4494.33,Nigeria
+2655,Urals,15-09-2026,Nigeria,Jeddah,1083.88,Nigeria
+2656,Brent,09-02-2026,Saudi Arabia,Houston,8599.1,Saudi Arabia
+2658,Bonny Light,28-05-2026,Iraq,Singapore,4846.44,Iraq
+2659,Arab Light,27-12-2025,Russia,Fujairah,3077.67,Russia
+2660,Arab Light,06-06-2026,United Arab Emirates,Singapore,5605.81,UAE
+2661,Brent,21-07-2026,United States,Kochi,3686.6,USA
+2662,Es Sider,03-03-2026,Nigeria,Paradip,9710.28,Nigeria
+2663,Basra Light,17-12-2025,United Arab Emirates,Shanghai,5328.08,UAE
+2664,Bonny Light,24-03-2026,United States,Kochi,9283.47,USA
+2665,Es Sider,20-09-2026,Brazil,Jeddah,8999.75,Brazil
+2666,Es Sider,31-05-2026,Saudi Arabia,Jeddah,9797.27,Saudi Arabia
+2667,Es Sider,26-01-2026,Iraq,Fujairah,4646.04,Iraq
+2668,Brent,06-03-2026,Iraq,Shanghai,4170.15,Iraq
+2670,Urals,28-07-2026,Saudi Arabia,Singapore,2400.62,Saudi Arabia
+2671,Bonny Light,19-03-2026,Iraq,Rotterdam,7486.05,Iraq
+2672,Urals,31-05-2026,United Arab Emirates,Kochi,5905.08,UAE
+2673,Brent,12-06-2026,Russia,Fujairah,5368.94,Russia
+2674,Arab Light,03-12-2025,United Arab Emirates,Shanghai,6303.28,UAE
+2675,Es Sider,20-07-2026,Saudi Arabia,Rotterdam,9342.03,Saudi Arabia
+2676,Basra Light,03-05-2026,Nigeria,Rotterdam,2503.97,Nigeria
+2677,Basra Light,04-10-2025,Iraq,Kochi,5640.56,Iraq
+2678,Basra Light,07-05-2026,Saudi Arabia,Jeddah,9555.34,Saudi Arabia
+2679,Es Sider,29-05-2026,United Arab Emirates,Jeddah,8140.89,UAE
+2680,Bonny Light,23-07-2026,Iraq,Shanghai,8738.01,Iraq
+2681,Urals,25-05-2026,Iraq,Jeddah,2615.94,Iraq
+2683,Urals,06-09-2026,Nigeria,Jeddah,5835.89,Nigeria
+2684,Arab Light,04-10-2025,Saudi Arabia,Fujairah,3500.03,Saudi Arabia
+2685,Brent,12-10-2025,Nigeria,Paradip,5815.18,Nigeria
+2686,Basra Light,16-11-2025,United Arab Emirates,Rotterdam,5385.87,UAE
+2687,Urals,17-02-2026,Nigeria,Paradip,2501.59,Nigeria
+2688,Es Sider,09-08-2026,United States,Rotterdam,6353.44,USA
+2689,Maya,29-04-2026,United Arab Emirates,Singapore,2822.96,UAE
+2690,Urals,21-06-2026,Saudi Arabia,Kochi,8158.62,Saudi Arabia
+2691,Es Sider,22-07-2026,United States,Rotterdam,9771.41,USA
+2692,Maya,28-01-2026,Nigeria,Kochi,2681.22,Nigeria
+2693,Brent,09-07-2026,Russia,Rotterdam,8333.25,Russia
+2694,Basra Light,06-08-2026,Russia,Shanghai,4977.69,Russia
+2695,Urals,11-12-2025,United Arab Emirates,Houston,4952.75,UAE
+2696,Maya,26-04-2026,United States,Kochi,3303.92,USA
+2697,Bonny Light,10-08-2026,Russia,Jeddah,2056.25,Russia
+2698,Bonny Light,01-07-2026,Brazil,Kochi,6976.23,Brazil
+2699,Urals,07-02-2026,United States,Jeddah,6210.08,USA
+2700,Basra Light,07-12-2025,Russia,Jeddah,6394.19,Russia
+2701,Basra Light,18-08-2026,Iraq,Shanghai,3793.43,Iraq
+2702,Brent,18-01-2026,United Arab Emirates,Singapore,8697.6,UAE
+2703,Es Sider,22-07-2026,Iraq,Singapore,951.12,Iraq
+2704,Arab Light,22-07-2026,United Arab Emirates,Rotterdam,1985.3,UAE
+2705,Es Sider,09-02-2026,Russia,Fujairah,2979.81,Russia
+2707,Basra Light,16-03-2026,Brazil,Kochi,6540.63,Brazil
+2708,Brent,28-03-2026,Iraq,Houston,8408.92,Iraq
+2710,Bonny Light,01-12-2025,United Arab Emirates,Kochi,7822.86,UAE
+2711,Basra Light,19-03-2026,Nigeria,Jeddah,5635.57,Nigeria
+2712,Es Sider,15-08-2026,United States,Kochi,9689.11,USA
+2714,Es Sider,22-10-2025,Iraq,Rotterdam,8200.04,Iraq
+2715,Urals,12-08-2026,Iraq,Paradip,7298.96,Iraq
+2716,Maya,05-01-2026,United States,Paradip,6399.49,USA
+2717,Bonny Light,23-06-2026,United Arab Emirates,Paradip,7870.66,UAE
+2718,Basra Light,06-03-2026,Brazil,Jeddah,8558.25,Brazil
+2722,Arab Light,10-10-2025,United Arab Emirates,Houston,824.88,UAE
+2723,Maya,17-02-2026,Saudi Arabia,Kochi,4469.69,Saudi Arabia
+2724,Es Sider,15-09-2026,Saudi Arabia,Jeddah,7219.61,Saudi Arabia
+2725,Maya,05-04-2026,Russia,Singapore,8349.62,Russia
+2727,Arab Light,27-02-2026,Saudi Arabia,Singapore,7465.38,Saudi Arabia
+2729,Basra Light,15-04-2026,United States,Rotterdam,9894.56,USA
+2730,Bonny Light,23-03-2026,Nigeria,Kochi,5968.6,Nigeria
+2731,Urals,06-04-2026,United Arab Emirates,Fujairah,5596.51,UAE
+2732,Brent,30-06-2026,Brazil,Houston,5659.83,Brazil
+2733,Es Sider,25-06-2026,Brazil,Paradip,5253.05,Brazil
+2734,Es Sider,07-11-2025,United States,Singapore,7283.12,USA
+2735,Bonny Light,04-04-2026,Saudi Arabia,Houston,3155.21,Saudi Arabia
+2736,Basra Light,29-11-2025,Saudi Arabia,Paradip,5517.2,Saudi Arabia
+2739,Maya,17-04-2026,Iraq,Rotterdam,5622.6,Iraq
+2740,Arab Light,14-12-2025,Nigeria,Jeddah,7147.99,Nigeria
+2742,Urals,21-04-2026,United States,Singapore,9423.18,USA
+2743,Brent,04-10-2025,Nigeria,Fujairah,1591.0,Nigeria
+2744,Maya,07-02-2026,Saudi Arabia,Singapore,1418.62,Saudi Arabia
+2745,Urals,31-10-2025,Saudi Arabia,Fujairah,2667.98,Saudi Arabia
+2746,Basra Light,30-03-2026,Brazil,Paradip,5450.97,Brazil
+2747,Urals,22-03-2026,Russia,Fujairah,2591.23,Russia
+2748,Basra Light,12-04-2026,Saudi Arabia,Jeddah,6912.49,Saudi Arabia
+2749,Bonny Light,22-09-2026,United Arab Emirates,Singapore,741.6,UAE
+2751,Basra Light,24-03-2026,Iraq,Jeddah,7028.09,Iraq
+2752,Maya,06-12-2025,United Arab Emirates,Houston,7925.73,UAE
+2753,Arab Light,27-12-2025,Saudi Arabia,Kochi,5899.76,Saudi Arabia
+2754,Brent,26-02-2026,United States,Singapore,7354.41,USA
+2755,Arab Light,18-06-2026,Nigeria,Kochi,4872.59,Nigeria
+2756,Es Sider,03-01-2026,Brazil,Shanghai,9370.49,Brazil
+2757,Es Sider,20-11-2025,United Arab Emirates,Singapore,5261.56,UAE
+2761,Bonny Light,11-12-2025,Saudi Arabia,Singapore,941.62,Saudi Arabia
+2762,Arab Light,05-07-2026,Russia,Kochi,8103.01,Russia
+2763,Arab Light,27-12-2025,United Arab Emirates,Singapore,3929.59,UAE
+2764,Arab Light,18-10-2025,Iraq,Rotterdam,9016.97,Iraq
+2765,Es Sider,05-08-2026,United States,Houston,5020.91,USA
+2766,Es Sider,17-11-2025,Iraq,Singapore,3580.4,Iraq
+2767,Es Sider,22-09-2026,Saudi Arabia,Rotterdam,4709.79,Saudi Arabia
+2769,Es Sider,14-06-2026,United States,Fujairah,6121.95,USA
+2770,Brent,07-06-2026,United Arab Emirates,Jeddah,3078.62,UAE
+2771,Arab Light,02-02-2026,Russia,Fujairah,1926.0,Russia
+2772,Basra Light,17-12-2025,Nigeria,Fujairah,9369.64,Nigeria
+2773,Maya,08-06-2026,Nigeria,Shanghai,6974.96,Nigeria
+2775,Maya,24-08-2026,United States,Jeddah,9450.79,USA
+2778,Arab Light,17-10-2025,Saudi Arabia,Jeddah,2914.16,Saudi Arabia
+2779,Basra Light,11-03-2026,United States,Fujairah,3720.05,USA
+2780,Bonny Light,07-04-2026,United States,Shanghai,5489.98,USA
+2781,Basra Light,13-11-2025,Russia,Shanghai,8254.24,Russia
+2783,Urals,28-01-2026,Russia,Jeddah,4246.53,Russia
+2784,Urals,20-07-2026,United States,Shanghai,3653.14,USA
+2785,Arab Light,22-08-2026,Saudi Arabia,Houston,7287.44,Saudi Arabia
+2789,Brent,28-12-2025,Saudi Arabia,Jeddah,6301.83,Saudi Arabia
+2790,Arab Light,02-06-2026,Iraq,Paradip,6168.1,Iraq
+2791,Bonny Light,14-11-2025,Nigeria,Singapore,4181.09,Nigeria
+2792,Es Sider,19-01-2026,Iraq,Kochi,1936.81,Iraq
+2793,Bonny Light,18-01-2026,Nigeria,Fujairah,5911.66,Nigeria
+2794,Urals,06-10-2025,Saudi Arabia,Kochi,2982.15,Saudi Arabia
+2795,Urals,03-09-2026,Iraq,Houston,2546.77,Iraq
+2796,Urals,08-06-2026,United States,Fujairah,5562.82,USA
+2797,Brent,08-07-2026,Iraq,Singapore,6087.57,Iraq
+2798,Arab Light,29-01-2026,Saudi Arabia,Jeddah,5922.0,Saudi Arabia
+2799,Urals,11-11-2025,Nigeria,Fujairah,1932.78,Nigeria
+2800,Basra Light,16-04-2026,Brazil,Rotterdam,3873.66,Brazil
+2801,Arab Light,27-07-2026,Saudi Arabia,Fujairah,2190.94,Saudi Arabia
+2802,Es Sider,25-06-2026,Brazil,Singapore,6829.77,Brazil
+2803,Arab Light,31-03-2026,Russia,Jeddah,4477.73,Russia
+2804,Bonny Light,29-07-2026,Russia,Kochi,7439.47,Russia
+2805,Es Sider,03-07-2026,Saudi Arabia,Jeddah,9376.59,Saudi Arabia
+2806,Urals,29-11-2025,United States,Jeddah,9690.46,USA
+2807,Urals,19-12-2025,United Arab Emirates,Houston,6331.15,UAE
+2808,Bonny Light,11-03-2026,Russia,Shanghai,5194.92,Russia
+2809,Bonny Light,16-09-2026,Iraq,Fujairah,7556.64,Iraq
+2810,Maya,26-11-2025,Brazil,Paradip,3399.04,Brazil
+2811,Arab Light,09-07-2026,United Arab Emirates,Houston,9587.39,UAE
+2812,Arab Light,01-01-2026,United Arab Emirates,Paradip,3529.15,UAE
+2814,Bonny Light,22-08-2026,Nigeria,Rotterdam,8419.21,Nigeria
+2815,Basra Light,12-07-2026,United States,Fujairah,8927.27,USA
+2816,Brent,18-05-2026,Saudi Arabia,Jeddah,4086.07,Saudi Arabia
+2817,Bonny Light,03-11-2025,United Arab Emirates,Kochi,8465.18,UAE
+2818,Bonny Light,05-03-2026,Brazil,Fujairah,8362.69,Brazil
+2822,Basra Light,06-02-2026,United States,Jeddah,6222.13,USA
+2823,Brent,31-10-2025,Saudi Arabia,Paradip,6731.51,Saudi Arabia
+2824,Basra Light,06-12-2025,Saudi Arabia,Paradip,615.91,Saudi Arabia
+2825,Arab Light,28-02-2026,Nigeria,Shanghai,1777.22,Nigeria
+2827,Basra Light,05-02-2026,Iraq,Shanghai,8896.26,Iraq
+2828,Basra Light,11-02-2026,Saudi Arabia,Fujairah,3880.01,Saudi Arabia
+2829,Maya,05-01-2026,Brazil,Rotterdam,2743.93,Brazil
+2830,Brent,23-05-2026,Nigeria,Rotterdam,7156.31,Nigeria
+2831,Es Sider,21-01-2026,United Arab Emirates,Shanghai,8065.06,UAE
+2832,Urals,24-10-2025,United Arab Emirates,Houston,7542.87,UAE
+2833,Bonny Light,12-06-2026,United Arab Emirates,Houston,3067.44,UAE
+2834,Es Sider,13-08-2026,Saudi Arabia,Paradip,1774.62,Saudi Arabia
+2835,Brent,21-03-2026,Russia,Houston,8488.55,Russia
+2836,Basra Light,28-01-2026,Iraq,Jeddah,7512.4,Iraq
+2838,Arab Light,16-10-2025,Nigeria,Singapore,5117.93,Nigeria
+2839,Maya,31-08-2026,Nigeria,Singapore,5003.96,Nigeria
+2840,Es Sider,31-05-2026,United States,Rotterdam,3477.96,USA
+2841,Urals,04-05-2026,Saudi Arabia,Shanghai,7898.46,Saudi Arabia
+2842,Es Sider,15-07-2026,Brazil,Fujairah,1539.98,Brazil
+2843,Es Sider,25-03-2026,United States,Shanghai,1495.54,USA
+2844,Es Sider,06-12-2025,United Arab Emirates,Fujairah,9651.44,UAE
+2845,Brent,26-09-2026,Nigeria,Jeddah,8935.73,Nigeria
+2846,Urals,06-04-2026,Iraq,Kochi,2561.35,Iraq
+2847,Basra Light,11-10-2025,United Arab Emirates,Rotterdam,6546.74,UAE
+2848,Maya,18-01-2026,Brazil,Paradip,3541.15,Brazil
+2849,Maya,03-12-2025,Russia,Rotterdam,606.01,Russia
+2850,Bonny Light,12-01-2026,Iraq,Houston,2470.92,Iraq
+2851,Basra Light,15-10-2025,Brazil,Jeddah,9244.97,Brazil
+2852,Basra Light,18-02-2026,United Arab Emirates,Houston,4509.37,UAE
+2853,Brent,15-08-2026,Nigeria,Jeddah,5523.54,Nigeria
+2854,Maya,08-03-2026,United States,Jeddah,3777.71,USA
+2856,Bonny Light,02-03-2026,Russia,Kochi,1290.82,Russia
+2857,Basra Light,23-01-2026,Russia,Singapore,9370.02,Russia
+2858,Bonny Light,18-02-2026,Brazil,Jeddah,7170.95,Brazil
+2859,Urals,09-03-2026,Russia,Kochi,5876.67,Russia
+2862,Maya,05-10-2025,United States,Houston,3839.16,USA
+2864,Es Sider,15-02-2026,Nigeria,Kochi,2421.49,Nigeria
+2865,Es Sider,18-03-2026,United Arab Emirates,Paradip,6177.83,UAE
+2866,Arab Light,21-11-2025,Russia,Houston,8947.98,Russia
+2867,Es Sider,22-07-2026,Nigeria,Singapore,6396.2,Nigeria
+2868,Basra Light,12-02-2026,Iraq,Jeddah,3685.92,Iraq
+2869,Basra Light,17-12-2025,Nigeria,Singapore,4002.65,Nigeria
+2870,Maya,24-04-2026,United States,Houston,5897.62,USA
+2871,Urals,02-12-2025,United Arab Emirates,Jeddah,7380.96,UAE
+2872,Urals,07-09-2026,Saudi Arabia,Kochi,3585.02,Saudi Arabia
+2873,Brent,18-08-2026,United States,Shanghai,6597.3,USA
+2874,Es Sider,19-06-2026,Iraq,Fujairah,3206.43,Iraq
+2876,Basra Light,17-04-2026,United Arab Emirates,Singapore,7063.19,UAE
+2877,Basra Light,05-01-2026,United Arab Emirates,Fujairah,9013.03,UAE
+2878,Arab Light,13-11-2025,Russia,Houston,4768.05,Russia
+2879,Brent,30-05-2026,Saudi Arabia,Rotterdam,6221.97,Saudi Arabia
+2881,Bonny Light,01-09-2026,Iraq,Jeddah,4458.12,Iraq
+2882,Maya,05-02-2026,Russia,Jeddah,8968.22,Russia
+2883,Arab Light,02-06-2026,United States,Kochi,3639.93,USA
+2885,Brent,24-06-2026,Nigeria,Singapore,6709.7,Nigeria
+2886,Basra Light,16-01-2026,Iraq,Rotterdam,8861.15,Iraq
+2887,Es Sider,31-12-2025,Brazil,Paradip,5831.23,Brazil
+2888,Brent,04-09-2026,United States,Rotterdam,3796.7,USA
+2889,Brent,09-03-2026,United States,Jeddah,2022.03,USA
+2890,Es Sider,15-01-2026,Brazil,Houston,9531.4,Brazil
+2891,Bonny Light,22-11-2025,Russia,Houston,970.39,Russia
+2893,Bonny Light,06-05-2026,Saudi Arabia,Paradip,1813.05,Saudi Arabia
+2894,Arab Light,25-11-2025,Iraq,Houston,6207.89,Iraq
+2895,Es Sider,21-08-2026,Saudi Arabia,Rotterdam,4098.89,Saudi Arabia
+2897,Bonny Light,29-08-2026,Russia,Shanghai,5673.55,Russia
+2898,Brent,09-03-2026,Iraq,Paradip,8306.99,Iraq
+2899,Urals,18-05-2026,Saudi Arabia,Rotterdam,4095.22,Saudi Arabia
+2900,Maya,12-10-2025,United States,Rotterdam,1286.0,USA
+2901,Arab Light,24-12-2025,Saudi Arabia,Rotterdam,1050.75,Saudi Arabia
+2902,Urals,25-02-2026,Russia,Fujairah,9511.31,Russia
+2904,Arab Light,28-05-2026,Nigeria,Jeddah,3907.77,Nigeria
+2905,Bonny Light,14-03-2026,Iraq,Fujairah,1785.06,Iraq
+2906,Brent,05-04-2026,Iraq,Houston,4876.31,Iraq
+2907,Basra Light,25-06-2026,United Arab Emirates,Shanghai,5129.39,UAE
+2910,Basra Light,30-04-2026,United Arab Emirates,Paradip,9510.46,UAE
+2911,Arab Light,14-10-2025,Iraq,Fujairah,3872.43,Iraq
+2913,Urals,23-08-2026,Nigeria,Fujairah,7566.11,Nigeria
+2914,Maya,02-04-2026,Nigeria,Fujairah,7769.46,Nigeria
+2916,Brent,07-01-2026,Iraq,Paradip,9528.21,Iraq
+2917,Arab Light,19-12-2025,Saudi Arabia,Houston,7080.27,Saudi Arabia
+2918,Bonny Light,05-11-2025,Saudi Arabia,Kochi,9500.79,Saudi Arabia
+2919,Basra Light,30-11-2025,Iraq,Rotterdam,953.12,Iraq
+2920,Brent,13-08-2026,Russia,Shanghai,7237.1,Russia
+2921,Es Sider,29-05-2026,Saudi Arabia,Rotterdam,3558.45,Saudi Arabia
+2922,Basra Light,15-07-2026,Nigeria,Paradip,7011.02,Nigeria
+2923,Maya,05-04-2026,Brazil,Singapore,4205.87,Brazil
+2924,Basra Light,09-10-2025,Iraq,Shanghai,9050.7,Iraq
+2925,Basra Light,18-02-2026,Russia,Jeddah,3284.73,Russia
+2926,Urals,01-09-2026,Nigeria,Shanghai,4399.61,Nigeria
+2927,Bonny Light,24-05-2026,Russia,Houston,5701.37,Russia
+2928,Basra Light,04-02-2026,Russia,Fujairah,8998.31,Russia
+2929,Brent,05-08-2026,Brazil,Houston,4485.9,Brazil
+2930,Es Sider,08-12-2025,Russia,Kochi,712.34,Russia
+2932,Es Sider,18-04-2026,Nigeria,Paradip,5650.35,Nigeria
+2933,Bonny Light,14-03-2026,United States,Singapore,8403.98,USA
+2934,Basra Light,12-07-2026,United Arab Emirates,Rotterdam,5513.73,UAE
+2935,Maya,15-09-2026,United States,Rotterdam,5443.6,USA
+2936,Es Sider,23-05-2026,Saudi Arabia,Houston,5345.78,Saudi Arabia
+2937,Basra Light,18-08-2026,Nigeria,Singapore,5579.61,Nigeria
+2941,Arab Light,10-11-2025,Russia,Paradip,2889.64,Russia
+2942,Brent,28-05-2026,Russia,Fujairah,7114.16,Russia
+2943,Maya,24-07-2026,Russia,Shanghai,7200.57,Russia
+2944,Basra Light,15-04-2026,United States,Rotterdam,1937.65,USA
+2945,Urals,26-04-2026,Brazil,Singapore,1747.16,Brazil
+2947,Es Sider,18-12-2025,Brazil,Rotterdam,3680.27,Brazil
+2949,Urals,31-05-2026,United Arab Emirates,Houston,4154.07,UAE
+2951,Basra Light,08-07-2026,United Arab Emirates,Fujairah,9323.2,UAE
+2952,Maya,17-07-2026,United States,Jeddah,5240.47,USA
+2953,Basra Light,01-10-2025,Nigeria,Singapore,5708.23,Nigeria
+2954,Es Sider,20-03-2026,Russia,Fujairah,2432.62,Russia
+2955,Bonny Light,06-06-2026,Russia,Shanghai,6274.2,Russia
+2956,Maya,28-02-2026,Saudi Arabia,Jeddah,8285.19,Saudi Arabia
+2958,Basra Light,02-07-2026,Iraq,Kochi,9424.52,Iraq
+2959,Bonny Light,04-03-2026,United States,Fujairah,5415.5,USA
+2960,Es Sider,16-04-2026,United States,Singapore,8547.63,USA
+2961,Arab Light,05-04-2026,United States,Kochi,6015.94,USA
+2962,Bonny Light,06-05-2026,Nigeria,Jeddah,8788.86,Nigeria
+2963,Arab Light,22-05-2026,Brazil,Shanghai,5152.95,Brazil
+2964,Arab Light,30-12-2025,Iraq,Rotterdam,8785.72,Iraq
+2965,Basra Light,07-01-2026,Nigeria,Singapore,7509.23,Nigeria
+2967,Es Sider,30-05-2026,United States,Singapore,4482.18,USA
+2969,Brent,04-11-2025,United States,Houston,3029.54,USA
+2970,Basra Light,23-05-2026,Russia,Paradip,8174.4,Russia
+2971,Bonny Light,06-09-2026,Brazil,Paradip,9421.9,Brazil
+2973,Arab Light,13-07-2026,Nigeria,Shanghai,3828.8,Nigeria
+2975,Brent,01-06-2026,Russia,Singapore,2158.32,Russia
+2976,Bonny Light,01-01-2026,Brazil,Jeddah,588.87,Brazil
+2977,Bonny Light,22-07-2026,Nigeria,Rotterdam,6430.99,Nigeria
+2978,Arab Light,01-06-2026,United Arab Emirates,Shanghai,5761.34,UAE
+2979,Basra Light,23-03-2026,United Arab Emirates,Paradip,7849.51,UAE
+2981,Es Sider,14-01-2026,Saudi Arabia,Jeddah,3464.73,Saudi Arabia
+2982,Es Sider,14-02-2026,Saudi Arabia,Jeddah,6912.38,Saudi Arabia
+2983,Es Sider,16-10-2025,Nigeria,Kochi,5461.56,Nigeria
+2984,Urals,16-04-2026,Russia,Shanghai,2553.51,Russia
+2986,Es Sider,14-05-2026,Russia,Shanghai,8188.02,Russia
+2988,Basra Light,26-02-2026,Saudi Arabia,Paradip,4539.12,Saudi Arabia
+2989,Maya,23-03-2026,Nigeria,Fujairah,1385.49,Nigeria
+2991,Brent,14-01-2026,United States,Houston,2100.45,USA
+2992,Urals,25-11-2025,Russia,Kochi,1015.07,Russia
+2993,Basra Light,27-01-2026,Brazil,Fujairah,3357.49,Brazil
+2994,Brent,18-02-2026,United States,Paradip,3363.8,USA
+2995,Maya,28-06-2026,Iraq,Houston,7461.28,Iraq
+2996,Arab Light,14-06-2026,Brazil,Kochi,7883.61,Brazil
+2997,Urals,02-08-2026,Russia,Paradip,4674.34,Russia
+2998,Es Sider,27-02-2026,Nigeria,Shanghai,9772.66,Nigeria
+2999,Maya,10-03-2026,Nigeria,Fujairah,3078.73,Nigeria

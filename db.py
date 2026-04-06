@@ -363,9 +363,9 @@ def get_overview() -> Dict[str, int]:
     }
 
 
-def get_recent_allocations(limit: int = 20) -> pd.DataFrame:
+def get_recent_allocations(limit: int | None = None) -> pd.DataFrame:
     with get_connection() as connection:
-        query = """
+        base_query = """
             SELECT oil_id, ship_id, status,
                    COALESCE(decision_reason, reason) AS decision_reason,
                    final_score,
@@ -374,9 +374,12 @@ def get_recent_allocations(limit: int = 20) -> pd.DataFrame:
             FROM allocation_history
             WHERE run_id = (SELECT COALESCE(MAX(run_id), 0) FROM allocation_history)
             ORDER BY id ASC
-            LIMIT %s;
         """
-        return pd.read_sql_query(query, connection, params=(int(limit),))
+
+        if limit is None:
+            return pd.read_sql_query(base_query + ";", connection)
+
+        return pd.read_sql_query(base_query + " LIMIT %s;", connection, params=(int(limit),))
 
 
 def get_previous_run_allocations() -> pd.DataFrame:

@@ -1,21 +1,41 @@
 ship_id,capacity_mt,last_oil_type,available_date,available_port
-1000,23142,Brent,20-10-2025,Houston Port
-1001,39932,Urals,20-03-2026,Rotterdam Port
-1002,74354,Arab Light,04-10-2025,Jeddah Port
-1003,26122,Maya,11-10-2025,Paradip Port
-1004,54404,,06-03-2026,Jeddah Port
-1005,48978,Maya,11-03-2026,Fujairah Port
-1006,66157,Maya,06-06-2026,Houston Port
-1007,21910,Urals,12-11-2025,Shanghai Port
-1008,30208,Brent,22-05-2026,Houston Port
-1009,40166,Es Sider,05-04-2026,Fujairah Port
-1010,79853,Arab Light,31-10-2025,Paradip Port
-1011,77844,Urals,30-12-2025,Kochi Port
-1012,46670,,22-05-2026,
-1013,67933,Brent,01-10-2025,Singapore Port
-1014,50619,Es Sider,05-10-2025,Houston Port
-1015,61652,Bonny Light,30-05-2026,Fujairah Port
-1016,40090,Maya,23-12-2025,Houston Port
-1017,72183,Maya,10-11-2025,Fujairah Port
-1018,43233,Maya,27-02-2026,Houston Port
-1019,52095,Es Sider,16-04-2026,Houston Port
+1000,23142.0,Brent,20-10-2025,Houston Port
+1001,39932.0,Urals,20-03-2026,Rotterdam Port
+1002,74354.0,Arab Light,04-10-2025,Jeddah Port
+1003,26122.0,Maya,11-10-2025,Paradip Port
+1004,54404.0,,06-03-2026,Jeddah Port
+1005,48978.0,Maya,11-03-2026,Fujairah Port
+1006,66157.0,Maya,06-06-2026,Houston Port
+1007,21910.0,Urals,12-11-2025,Shanghai Port
+1008,30208.0,Brent,22-05-2026,Houston Port
+1009,40166.0,Es Sider,05-04-2026,Fujairah Port
+1010,79853.0,Arab Light,31-10-2025,Paradip Port
+1011,77844.0,Urals,30-12-2025,Kochi Port
+1012,46670.0,,22-05-2026,
+1013,67933.0,Brent,01-10-2025,Singapore Port
+1014,50619.0,Es Sider,05-10-2025,Houston Port
+1015,61652.0,Bonny Light,30-05-2026,Fujairah Port
+1016,40090.0,Maya,23-12-2025,Houston Port
+1017,72183.0,Maya,10-11-2025,Fujairah Port
+1018,43233.0,Maya,27-02-2026,Houston Port
+1019,52095.0,Es Sider,16-04-2026,Houston Port
+1020,28161.0,Bonny Light,19-05-2026,Paradip Port
+1021,66459.0,Bonny Light,21-06-2026,Kochi Port
+1022,26287.0,Urals,24-03-2026,Singapore Port
+1023,50378.0,Bonny Light,23-10-2025,Singapore Port
+1024,50308.0,Es Sider,27-01-2026,Singapore Port
+1025,25024.0,Urals,09-12-2025,Shanghai Port
+1026,,Maya,06-06-2026,Jeddah Port
+1027,33449.0,Urals,04-10-2025,Shanghai Port
+1028,55077.0,Bonny Light,04-04-2026,Houston Port
+1029,32996.0,Basra Light,01-01-2026,Houston Port
+1030,23747.0,Arab Light,29-12-2025,Houston Port
+1031,75301.0,Bonny Light,14-03-2026,Fujairah Port
+1032,23096.0,Es Sider,16-03-2026,Rotterdam Port
+1033,35955.0,Arab Light,22-05-2026,Paradip Port
+1034,22926.0,Brent,07-12-2025,Shanghai Port
+1035,48218.0,Bonny Light,22-01-2026,Fujairah Port
+1036,73975.0,Basra Light,08-10-2025,Jeddah Port
+1037,33655.0,Basra Light,26-12-2025,Houston Port
+1038,,Maya,24-10-2025,Paradip Port
+1039,65831.0,Basra Light,13-06-2026,Shanghai Port
