@@ -27,6 +27,8 @@ def _score_components(oil: Dict[str, Any], ship: Dict[str, Any]) -> Dict[str, An
             "contamination_penalty": None,
             "final_score": None,
         }
+    
+    
 
     capacity_score = 40.0 * (quantity_mt / capacity_mt)
 
@@ -150,7 +152,6 @@ def allocate_oil_to_ships(oils: pd.DataFrame, ships: pd.DataFrame) -> List[Dict[
                     "oil_id": oil["oil_id"],
                     "ship_id": best_ship["ship_id"],
                     "status": "allocated",
-                    "reason": reason,
                     "decision_reason": reason,
                     "final_score": round(float(best_score), 6),
                     "allocation_time": datetime.utcnow(),
@@ -164,7 +165,6 @@ def allocate_oil_to_ships(oils: pd.DataFrame, ships: pd.DataFrame) -> List[Dict[
                     "oil_id": oil["oil_id"],
                     "ship_id": None,
                     "status": "unallocated",
-                    "reason": reason,
                     "decision_reason": reason,
                     "final_score": round(float(best_score), 6) if best_score is not None else None,
                     "allocation_time": datetime.utcnow(),
